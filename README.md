@@ -25,6 +25,8 @@ Check every destination and clarification branch against official guidance. Use 
 
 See [the Phase 2 database expansion report](DATABASE-EXPANSION.md) for coverage and validation results.
 
+See [Phase 3 database expansion](PHASE-3-DATABASE.md) and [family search coverage](PHASE-3-SEARCH.md) for the current release. New records can include `verification_basis`, `supporting_rule`, and any `supporting_source_urls`. Pending records can include `review_reason` and `review_source_url`.
+
 - [Landkreis Kusel waste services](https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/)
 - [County Abfall-ABC](https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/)
 - [County Entsorgung guidance](https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/)

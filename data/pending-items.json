@@ -16,24 +16,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
-  },
-  {
-    "id": "plastic-teabag",
-    "name_en": "Plastic-containing tea bag after emptying",
-    "name_de": "Teebeutel mit Kunststoffanteil nach dem Entleeren",
-    "synonyms_en": [
-      "plastic pyramid tea bag",
-      "nylon tea bag"
-    ],
-    "synonyms_de": [],
-    "category": null,
-    "instructions_en": "",
-    "warnings": [],
-    "clarification": null,
-    "source_url": null,
-    "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Disposable pod construction, packaging status and remaining grounds vary. The county rule covers verified empty lightweight packaging.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
   },
   {
     "id": "single-use-coffee-cup",
@@ -50,24 +35,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
-  },
-  {
-    "id": "compostable-plastic-liner",
-    "name_en": "Compostable plastic bin liner",
-    "name_de": "Kompostierbarer Kunststoff-Müllbeutel",
-    "synonyms_en": [
-      "compostable plastic bag",
-      "bioplastic liner"
-    ],
-    "synonyms_de": [],
-    "category": null,
-    "instructions_en": "",
-    "warnings": [],
-    "clarification": null,
-    "source_url": null,
-    "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Plain paper and inseparable composite sales packaging follow different routes. A bare product name does not establish coating or packaging status.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
   },
   {
     "id": "liquid-latex-paint",
@@ -84,7 +54,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "County guidance covers hardened paint and empty pails. The described liquid cannot be hardened.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
   },
   {
     "id": "empty-hazard-bottle",
@@ -101,7 +73,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Possibly contaminated packaging requires product- and residue-specific acceptance information.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
   },
   {
     "id": "steamable-pouch",
@@ -118,7 +92,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Layer composition and whether the article is discarded sales packaging are unspecified.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
   },
   {
     "id": "diaper-pail-liner",
@@ -135,7 +111,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The mixed liner construction and contamination condition are not established.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "broken-mug-material",
@@ -152,7 +130,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Glass and ceramic tableware are documented. The item’s material or electronic component is unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
   },
   {
     "id": "carbon-filter",
@@ -169,7 +149,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "County examples do not establish a route for the intact cartridge and its filter medium.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "broken-lithium-battery",
@@ -186,7 +168,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Ordinary retail battery collection does not establish a safe local damaged-cell handoff.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
   },
   {
     "id": "large-ebike-battery",
@@ -203,7 +187,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The county facility listing covers low-voltage e-bike batteries under 25 kg.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=40"
   },
   {
     "id": "whole-ebike",
@@ -220,7 +206,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The guide excludes e-bikes from bulky collection. Local acceptance conditions for complete e-bikes remain unclear.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
   },
   {
     "id": "isolation-glazing",
@@ -236,7 +224,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The guide covers flat glass and examples of bulky glazing. Acceptance for the sealed multi-material unit needs confirmation.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
   },
   {
     "id": "gas-bottle-unknown",
@@ -244,7 +234,8 @@
     "name_de": "Gasflasche mit unbekanntem Inhalt",
     "synonyms_en": [
       "propane tank",
-      "gas cylinder"
+      "gas cylinder",
+      "propane tank"
     ],
     "synonyms_de": [],
     "category": null,
@@ -253,7 +244,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The retailer/scrap route in the alphabetical guidance specifies emptied cylinders. This cylinder’s contents are unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=38"
   },
   {
     "id": "untreated-cat-litter",
@@ -261,7 +254,8 @@
     "name_de": "Benutzte Katzenstreu unbekannter Zusammensetzung",
     "synonyms_en": [
       "cat litter",
-      "Katzenstreu"
+      "Katzenstreu",
+      "unknown cat litter"
     ],
     "synonyms_de": [],
     "category": null,
@@ -270,7 +264,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Biodegradable and mineral litter use different routes. The composition of this litter is unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
   },
   {
     "id": "dog-waste",
@@ -289,23 +285,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
-  },
-  {
-    "id": "medical-blister-contents",
-    "name_en": "Partially full medication blister",
-    "name_de": "Teilweise gefüllter Tablettenblister",
-    "synonyms_en": [
-      "pill pack with pills"
-    ],
-    "synonyms_de": [],
-    "category": null,
-    "instructions_en": "",
-    "warnings": [],
-    "clarification": null,
-    "source_url": null,
-    "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The guide excludes dog feces from the Biotonne but this review did not confirm a specific local disposal route.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
   },
   {
     "id": "baby-bottle",
@@ -322,7 +304,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The route depends on the material and any separable components.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "mixed-material-toy",
@@ -339,7 +323,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Small non-electric plastic toys and powered toys have different routes. Components are unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "reusable-water-filter-pitcher",
@@ -355,24 +341,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
-  },
-  {
-    "id": "wallpaper-paste",
-    "name_en": "Leftover wallpaper paste",
-    "name_de": "Tapetenkleisterreste",
-    "synonyms_en": [
-      "wallpaper glue",
-      "wallpaper adhesive"
-    ],
-    "synonyms_de": [],
-    "category": null,
-    "instructions_en": "",
-    "warnings": [],
-    "clarification": null,
-    "source_url": null,
-    "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The pitcher and filter media require separate material identification.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "mixed-textile-shoe",
@@ -389,7 +360,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The guide specifies paired usable shoes for collection. A single otherwise usable shoe needs acceptance confirmation.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
   },
   {
     "id": "steam-vape-pod",
@@ -406,7 +379,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The guide covers complete e-cigarettes. The separated refill pod with liquid needs its own verified route.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
   },
   {
     "id": "art-pastel",
@@ -423,7 +398,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The medium and material composition are unidentified.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "hair-dye",
@@ -440,7 +417,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The county covers hazardous products. The mix’s hazard classification is unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
   },
   {
     "id": "sink-oil-mixture",
@@ -457,7 +436,9 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "Liquid cooking oil has an explicit route. The described mixture has unspecified composition.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
   },
   {
     "id": "wooden-toy",
@@ -474,6 +455,266 @@
     "clarification": null,
     "source_url": null,
     "verification_status": "pending",
-    "verified_at": null
+    "verified_at": null,
+    "review_reason": "The county distinguishes wood waste conditions. The coating, components and size are unknown.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
+  },
+  {
+    "id": "hand-pruners",
+    "name_en": "Hand pruners with wooden handles",
+    "name_de": "Gartenschere mit Holzgriffen",
+    "synonyms_en": [
+      "secateurs with wooden handles"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "patio-umbrella",
+    "name_en": "Broken patio umbrella",
+    "name_de": "Defekter Gartensonnenschirm",
+    "synonyms_en": [
+      "broken patio umbrella"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "gel-stress-ball",
+    "name_en": "Leaking gel stress ball",
+    "name_de": "Undichter Gel-Antistressball",
+    "synonyms_en": [
+      "squishy stress ball leaking gel"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "swim-goggles",
+    "name_en": "Swim goggles with silicone strap",
+    "name_de": "Schwimmbrille mit Silikonband",
+    "synonyms_en": [
+      "swim goggles with silicone strap"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "gel-ice-pack",
+    "name_en": "Leaking gel ice pack",
+    "name_de": "Undichtes Gel-Kühlpack",
+    "synonyms_en": [
+      "gel ice pack leaking"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "glow-stick",
+    "name_en": "Unused glow stick",
+    "name_de": "Unbenutztes Knicklicht",
+    "synonyms_en": [
+      "unused glow stick"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "car-seat",
+    "name_en": "Broken child car seat",
+    "name_de": "Defekter Kinderautositz",
+    "synonyms_en": [
+      "broken car seat"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "water-beads",
+    "name_en": "Water beads",
+    "name_de": "Wasserperlen",
+    "synonyms_en": [
+      "water beads"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "modeling-clay",
+    "name_en": "Unidentified modeling clay",
+    "name_de": "Modelliermasse unbekannter Zusammensetzung",
+    "synonyms_en": [
+      "modeling clay",
+      "modelling clay"
+    ],
+    "synonyms_de": [
+      "modelliermasse"
+    ],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "craft-glitter",
+    "name_en": "Loose craft glitter",
+    "name_de": "Loser Bastelglitzer",
+    "synonyms_en": [
+      "loose glitter"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "passive-cable",
+    "name_en": "Unidentified loose cable",
+    "name_de": "Nicht näher bestimmtes loses Kabel",
+    "synonyms_en": [
+      "old cable"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The Abfall-ABC and 2026 guide differ for loose cables. This query does not identify a powered accessory."
+  },
+  {
+    "id": "mixed-coffee-lid",
+    "name_en": "Foil-lined takeaway coffee lid",
+    "name_de": "Folienbeschichteter Mitnahmekaffeedeckel",
+    "synonyms_en": [
+      "foil lined takeaway coffee lid"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "silicone-mat",
+    "name_en": "Reusable silicone baking mat",
+    "name_de": "Wiederverwendbare Silikonbackmatte",
+    "synonyms_en": [
+      "reusable silicone baking mat"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "leather-bag",
+    "name_en": "Mouldy leather handbag",
+    "name_de": "Schimmelige Lederhandtasche",
+    "synonyms_en": [
+      "mouldy leather handbag"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+  },
+  {
+    "id": "damaged-solar-light",
+    "name_en": "Garden solar light with leaking battery",
+    "name_de": "Solar-Gartenlampe mit auslaufendem Akku",
+    "synonyms_en": [
+      "garden solar light with leaking battery"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
   }
 ]
