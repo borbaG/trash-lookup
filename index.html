@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#143f36">
+<link rel="manifest" href="./manifest.json">
+<link rel="icon" href="./icons/icon.svg">
+<link rel="apple-touch-icon" href="./icons/icon-192.png">
+<link rel="stylesheet" href="./styles.css">
+<script type="module" src="./app.js"></script>
+<title>Trash Lookup · Landkreis Kusel</title>
+</head>
+<body>
+<header><div class="wrap brand"><a href="#home" aria-label="Trash Lookup home"><img src="./icons/icon.svg" width="52" height="52" alt=""></a><div><strong>Trash Lookup</strong><small>Landkreis Kusel</small></div></div></header>
+<main class="wrap">
+<section class="hero" id="lookup">
+<h1>Where does it go?</h1>
+<p>Find the right bin, bag or drop-off point.</p>
+<form role="search" id="search-form"><label class="sr" for="query">Search in English or German</label><div class="searchbox"><span aria-hidden="true">⌕</span><input type="search" id="query" placeholder="What are you throwing away?" autocomplete="off" enterkeyhint="search"></div></form>
+</section>
+<div id="content"><p role="status">Loading the waste directory…</p></div>
+<div id="announce" class="sr" role="status"></div>
+<noscript>Enable JavaScript to use Trash Lookup.</noscript>
+</main>
+<nav aria-label="Main navigation"><div class="wrap">
+<a href="#home"><span aria-hidden="true">⌂</span>Home</a><a href="#search"><span aria-hidden="true">⌕</span>Search</a><a href="#az"><span aria-hidden="true">≡</span>A–Z</a><a href="#info"><span aria-hidden="true">ⓘ</span>Info</a>
+</div></nav>
+</body></html>

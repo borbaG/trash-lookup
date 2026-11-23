@@ -1,0 +1,106 @@
+{
+  "residual": {
+    "name_de": "Restmüll",
+    "name_en": "Gray residual waste bin",
+    "group": "household",
+    "color": "#4c5359",
+    "icon": "bin",
+    "instructions": "Put it in the gray residual waste bin."
+  },
+  "organic": {
+    "name_de": "Biotonne",
+    "name_en": "Green-lid organic waste bin",
+    "group": "organic",
+    "color": "#286246",
+    "icon": "bin",
+    "instructions": "Put it in the organic waste bin with the green lid."
+  },
+  "paper": {
+    "name_de": "Papiertonne",
+    "name_en": "Paper and cardboard bin",
+    "group": "recycling",
+    "color": "#225b91",
+    "icon": "bin",
+    "instructions": "Put it in the paper and cardboard bin."
+  },
+  "packaging": {
+    "name_de": "Gelber Sack",
+    "name_en": "Yellow packaging sack",
+    "group": "recycling",
+    "color": "#f0cb52",
+    "icon": "bag",
+    "instructions": "Empty the packaging and put it in the yellow sack."
+  },
+  "glass": {
+    "name_de": "Altglas · Transparenter Sack",
+    "name_en": "Clear sack for glass packaging",
+    "group": "recycling",
+    "color": "#d0e8e5",
+    "icon": "bag",
+    "instructions": "Empty the glass packaging and put it in the clear glass sack."
+  },
+  "deposit": {
+    "name_de": "Pfand",
+    "name_en": "Return to a store",
+    "group": "recycling",
+    "color": "#206b59",
+    "icon": "return",
+    "instructions": "Return it to a store that accepts that deposit bottle."
+  },
+  "electronics": {
+    "name_de": "Elektroschrott",
+    "name_en": "Electronics collection point",
+    "group": "special",
+    "color": "#4b558f",
+    "icon": "plug",
+    "instructions": "Take it to a collection point for electrical and electronic devices."
+  },
+  "batteries": {
+    "name_de": "Batterien",
+    "name_en": "Battery collection box",
+    "group": "special",
+    "color": "#704884",
+    "icon": "battery",
+    "instructions": "Take it to a battery collection box at a store or to the Umweltmobil."
+  },
+  "hazardous": {
+    "name_de": "Schadstoffsammlung · Umweltmobil",
+    "name_en": "Mobile hazardous waste collection",
+    "group": "special",
+    "color": "#9f4830",
+    "icon": "alert",
+    "instructions": "Take it to the Umweltmobil. Check the county schedule for the next stop."
+  },
+  "bulky": {
+    "name_de": "Sperrmüll",
+    "name_en": "Book bulky waste collection",
+    "group": "special",
+    "color": "#775338",
+    "icon": "truck",
+    "instructions": "Arrange a bulky waste pickup with Landkreis Kusel."
+  },
+  "landfill": {
+    "name_de": "Kreismülldeponie Schneeweiderhof",
+    "name_en": "County waste facility",
+    "group": "special",
+    "color": "#536143",
+    "icon": "facility",
+    "instructions": "Take it to the county waste facility at Schneeweiderhof. Check acceptance conditions before visiting."
+  },
+  "green": {
+    "name_de": "Grünschnittsammelstelle",
+    "name_en": "Green waste collection point",
+    "group": "organic",
+    "color": "#3e6a30",
+    "icon": "leaf",
+    "instructions": "Take it to a green waste collection point."
+  },
+  "center": {
+    "name_de": "Wertstoffhof",
+    "name_en": "Recycling center",
+    "group": "special",
+    "color": "#3e5e68",
+    "icon": "facility",
+    "instructions": "Check the facility’s accepted materials before visiting."
+  }
+}
