@@ -5,7 +5,9 @@
     "name_de": "Gebrauchte Kaffeekapsel",
     "synonyms_en": [
       "coffee pod",
-      "coffee capsule"
+      "coffee capsule",
+      "coffee k cup with grounds",
+      "used K-cup with grounds"
     ],
     "synonyms_de": [
       "Kaffee-Kapsel"
@@ -17,8 +19,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "Disposable pod construction, packaging status and remaining grounds vary. The county rule covers verified empty lightweight packaging.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+    "review_reason": "Grounds, capsule material and availability of a dedicated return scheme remain unspecified. The narrowly verified item is residue-free aluminum packaging.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "single-use-coffee-cup",
@@ -26,9 +29,12 @@
     "name_de": "Einweg-Kaffeebecher",
     "synonyms_en": [
       "takeaway cup",
-      "paper coffee cup"
+      "paper coffee cup",
+      "waxed paper soda cup"
     ],
-    "synonyms_de": [],
+    "synonyms_de": [
+      "einwegkaffeebecher mit kunststoffbeschichtung"
+    ],
     "category": null,
     "instructions_en": "",
     "warnings": [],
@@ -36,8 +42,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "Plain paper and inseparable composite sales packaging follow different routes. A bare product name does not establish coating or packaging status.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+    "review_reason": "The cup might be plain paper, inseparable composite sales packaging, or an item sold empty. Only the emptied cup known to be lined sales packaging was verified.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "liquid-latex-paint",
@@ -56,7 +63,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "County guidance covers hardened paint and empty pails. The described liquid cannot be hardened.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "empty-hazard-bottle",
@@ -75,7 +83,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "Possibly contaminated packaging requires product- and residue-specific acceptance information.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "steamable-pouch",
@@ -94,7 +103,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "Layer composition and whether the article is discarded sales packaging are unspecified.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "diaper-pail-liner",
@@ -113,7 +123,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The mixed liner construction and contamination condition are not established.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "broken-mug-material",
@@ -132,7 +143,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "Glass and ceramic tableware are documented. The item’s material or electronic component is unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "carbon-filter",
@@ -151,26 +163,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "County examples do not establish a route for the intact cartridge and its filter medium.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
-  },
-  {
-    "id": "broken-lithium-battery",
-    "name_en": "Damaged or swollen lithium battery",
-    "name_de": "Beschädigter oder aufgeblähter Lithium-Akku",
-    "synonyms_en": [
-      "swollen battery",
-      "puffy lithium battery"
-    ],
-    "synonyms_de": [],
-    "category": null,
-    "instructions_en": "",
-    "warnings": [],
-    "clarification": null,
-    "source_url": null,
-    "verification_status": "pending",
-    "verified_at": null,
-    "review_reason": "Ordinary retail battery collection does not establish a safe local damaged-cell handoff.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "large-ebike-battery",
@@ -188,8 +182,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county facility listing covers low-voltage e-bike batteries under 25 kg.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=40"
+    "review_reason": "The 2026 listing specifies low-voltage e-bike batteries below 25 kg. An unspecified larger pack needs site confirmation.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=40",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "whole-ebike",
@@ -208,7 +203,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The guide excludes e-bikes from bulky collection. Local acceptance conditions for complete e-bikes remain unclear.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "isolation-glazing",
@@ -226,7 +222,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The guide covers flat glass and examples of bulky glazing. Acceptance for the sealed multi-material unit needs confirmation.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "gas-bottle-unknown",
@@ -246,7 +243,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The retailer/scrap route in the alphabetical guidance specifies emptied cylinders. This cylinder’s contents are unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=38"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=38",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "untreated-cat-litter",
@@ -255,7 +253,8 @@
     "synonyms_en": [
       "cat litter",
       "Katzenstreu",
-      "unknown cat litter"
+      "unknown cat litter",
+      "old cat litter not sure what kind"
     ],
     "synonyms_de": [],
     "category": null,
@@ -266,7 +265,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "Biodegradable and mineral litter use different routes. The composition of this litter is unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "dog-waste",
@@ -274,7 +274,8 @@
     "name_de": "Verpackter Hundekot",
     "synonyms_en": [
       "dog poop",
-      "dog poo"
+      "dog poo",
+      "dog poop bags already used"
     ],
     "synonyms_de": [
       "Hundekot"
@@ -287,7 +288,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The guide excludes dog feces from the Biotonne but this review did not confirm a specific local disposal route.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "baby-bottle",
@@ -306,7 +308,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The route depends on the material and any separable components.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "mixed-material-toy",
@@ -314,7 +317,8 @@
     "name_de": "Kaputtes Spielzeug unbekannter Zusammensetzung",
     "synonyms_en": [
       "broken toy",
-      "unknown toy"
+      "unknown toy",
+      "non electric toy with metal and wood"
     ],
     "synonyms_de": [],
     "category": null,
@@ -324,8 +328,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "Small non-electric plastic toys and powered toys have different routes. Components are unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+    "review_reason": "The county residual rule covers scoped small non-electronic toys. It does not settle an unknown combination of electrical, glass, metal and wooden parts.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "reusable-water-filter-pitcher",
@@ -343,7 +348,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The pitcher and filter media require separate material identification.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "mixed-textile-shoe",
@@ -362,7 +368,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The guide specifies paired usable shoes for collection. A single otherwise usable shoe needs acceptance confirmation.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "steam-vape-pod",
@@ -381,7 +388,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The guide covers complete e-cigarettes. The separated refill pod with liquid needs its own verified route.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "art-pastel",
@@ -400,7 +408,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The medium and material composition are unidentified.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "hair-dye",
@@ -418,8 +427,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county covers hazardous products. The mix’s hazard classification is unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+    "review_reason": "The county accepts hazard-labeled products at the Umweltmobil. This unspecified mix does not establish hazard labeling.",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "sink-oil-mixture",
@@ -438,7 +448,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "Liquid cooking oil has an explicit route. The described mixture has unspecified composition.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "wooden-toy",
@@ -457,7 +468,8 @@
     "verification_status": "pending",
     "verified_at": null,
     "review_reason": "The county distinguishes wood waste conditions. The coating, components and size are unknown.",
-    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27",
+    "reviewed_at": "2026-11-23"
   },
   {
     "id": "hand-pruners",
@@ -474,7 +486,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The household tool is a wood and metal composite with sharp blades. Page 21 describes ordinary household articles but does not establish a specific route for these pruners.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "patio-umbrella",
@@ -491,7 +505,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "Bulky collection rules depend on size and material. The composite outdoor umbrella and its base are not named in the accepted list on page 26.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
   },
   {
     "id": "gel-stress-ball",
@@ -508,7 +524,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The small plastic toy rule does not establish disposal for an unidentified leaking gel filler.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "swim-goggles",
@@ -525,7 +543,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The small plastic household article rule does not establish whether this mixed silicone, lens and strap item follows the same route.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "gel-ice-pack",
@@ -542,7 +562,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The outer pouch and unidentified leaking gel need an item-specific route; the ordinary solid household article rule does not identify one.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "glow-stick",
@@ -559,7 +581,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The Umweltmobil accepts hazard-labeled products. The unused stick has unidentified liquid and no confirmed hazard label.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
   },
   {
     "id": "car-seat",
@@ -576,7 +600,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "A child safety seat is not identified in the bulky acceptance rules. The foam, textile and possible metal or electronic components are unspecified.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
   },
   {
     "id": "water-beads",
@@ -593,7 +619,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The water-absorbing polymer and condition are not identified in the residual or organics examples. No local product-specific route was found.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "modeling-clay",
@@ -613,7 +641,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The product could be mineral, polymer or a food-like craft dough. The ordinary plastics rule is insufficient for unidentified material.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "craft-glitter",
@@ -630,16 +660,22 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "Loose metallic, plastic or alternative fibers differ. The county’s small plastic article rule does not identify an unspecified loose craft powder.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "passive-cable",
     "name_en": "Unidentified loose cable",
     "name_de": "Nicht näher bestimmtes loses Kabel",
     "synonyms_en": [
-      "old cable"
+      "old cable",
+      "usb c cable",
+      "usb-c charger cable"
     ],
-    "synonyms_de": [],
+    "synonyms_de": [
+      "USB-C-Kabel"
+    ],
     "category": null,
     "instructions_en": "",
     "warnings": [],
@@ -647,7 +683,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The Abfall-ABC and 2026 guide differ for loose cables. This query does not identify a powered accessory."
+    "review_reason": "The 2026 guide (p. 29) calls passive cable residual waste, while the local alphabetical list names electronics collection for electrical cables. An unidentified charging cable remains unresolved.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
   },
   {
     "id": "mixed-coffee-lid",
@@ -664,7 +702,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The guide covers known lightweight sales packaging. The lid’s substrate and whether its layers or other components separate are unspecified.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
   },
   {
     "id": "silicone-mat",
@@ -681,7 +721,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The reusable food-contact mat is neither light sales packaging nor a known kitchen plastic article under the examples; its complete construction is unspecified.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
   },
   {
     "id": "leather-bag",
@@ -698,7 +740,9 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "The used-textile guidance covers clean, dry usable textiles. It does not identify a moldy leather bag with unknown frame and lining.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
   },
   {
     "id": "damaged-solar-light",
@@ -715,6 +759,30 @@
     "source_url": null,
     "verification_status": "pending",
     "verified_at": null,
-    "review_reason": "The county materials reviewed do not establish the route for this exact item and condition."
+    "review_reason": "A damaged integrated battery needs a staffed handover for the whole device. The review establishes a route for damaged household lithium batteries separately, so this device stays unresolved.",
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+  },
+  {
+    "id": "unspecified-swollen-battery",
+    "name_en": "Damaged battery of unknown type",
+    "name_de": "Beschädigte Batterie unbekannter Bauart",
+    "synonyms_en": [
+      "swollen battery",
+      "corroded AA batteries"
+    ],
+    "synonyms_de": [
+      "Aufgeblähte Batterie ohne Typangabe"
+    ],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null,
+    "reviewed_at": "2026-11-23",
+    "review_source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29",
+    "review_reason": "Battery chemistry, size and damage are unknown. Ask battery return staff before transport. Never put damaged batteries in household bins."
   }
 ]

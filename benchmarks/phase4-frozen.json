@@ -1,0 +1,3982 @@
+[
+  {
+    "query": "curly parsley stalks",
+    "item_ids": [
+      "herb-stems"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "alte zwiebelschalen",
+    "item_ids": [
+      "onion-skins"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "black avocado stone",
+    "item_ids": [
+      "avocado-pit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Wassermelonenschale",
+    "item_ids": [
+      "melon-rind"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "cold plain rice leftovers",
+    "item_ids": [
+      "cooked-rice"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "banana peelings",
+    "item_ids": [
+      "fruit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "strawberry green tops",
+    "item_ids": [
+      "strawberry-tops"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "plastic apple sauce pouch",
+    "item_ids": [
+      "food-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "empty foil chip packet",
+    "item_ids": [
+      "chip-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "old ranch dressing bottle made of glass",
+    "item_ids": [
+      "glass-salad-dressing-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "aluminium pie tin packaging",
+    "item_ids": [
+      "foil-pie-tin"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "empty plastic ketchup packet",
+    "item_ids": [
+      "plastic-ketchup-sachet"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "plain cardboard frozen waffle box",
+    "item_ids": [
+      "waffle-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "empty glass maple syrup bottle",
+    "item_ids": [
+      "glass-syrup-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "empty tortilla bag made of plastic",
+    "item_ids": [
+      "plastic-tortilla-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "plain cardboard tissue carton",
+    "item_ids": [
+      "tissue-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "waxed paper soda cup",
+    "item_ids": [
+      "single-use-coffee-cup"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "coffee k cup with grounds",
+    "item_ids": [
+      "coffee-capsule"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "paper plastic padded envelope",
+    "item_ids": [
+      "bubble-mailer"
+    ],
+    "expected_destinations": [
+      "paper",
+      "packaging"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "old styro foam insulaton",
+    "item_ids": [
+      "styrofoam"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "landfill"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "authored household phrasing",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "used removable manual razor blade cartridge",
+    "item_ids": [
+      "manual-razor-cartridge"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "cotton earpick swab",
+    "item_ids": [
+      "cotton-swab"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "electric toothbrush charging base",
+    "item_ids": [
+      "toothbrush-charging-base"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "used disposable dental tray",
+    "item_ids": [
+      "plastic-dental-impression-tray"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "empty glass nail polish bottle with no residue",
+    "item_ids": [
+      "glass-nail-polish"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "nail polish still in the bottle",
+    "item_ids": [
+      "nail-varnish-leftovers"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "leere plastik-spülungflasche",
+    "item_ids": [
+      "plastic-hair-conditioner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "old curling wand",
+    "item_ids": [
+      "curling-iron"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "used roll on antiperspirant glass container",
+    "item_ids": [
+      "glass-deodorant-rollon"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "sewing machine foot pedal powered",
+    "item_ids": [
+      "sewing-pedal"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "sewing thread still on metal spool",
+    "item_ids": [
+      "thread-metal-spool"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "small plastic toy flute",
+    "item_ids": [
+      "toy-recorder"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "used plastic glue spreader",
+    "item_ids": [
+      "plastic-glue-spreader"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "broken electronic drawing tablet",
+    "item_ids": [
+      "drawing-tablet"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "reusable plastic lunchbox",
+    "item_ids": [
+      "plastic-food-box"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "plastic doll shoes",
+    "item_ids": [
+      "plastic-doll-shoes"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "plastic Kinder-Schere",
+    "item_ids": [
+      "plastic-child-scissors"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "dried glue with glitter",
+    "item_ids": [
+      "dried-glitter-glue"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "glass christmas ball fragments",
+    "item_ids": [
+      "glass-ornament"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "plastic Christmas tree star without lights",
+    "item_ids": [
+      "plastic-tree-topper"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Ceramic Christmas village figurine",
+    "item_ids": [
+      "ceramic-holiday-figurine"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "battery game controller with no wire",
+    "item_ids": [
+      "game-controller"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "baby crib mobile motor",
+    "item_ids": [
+      "crib-mobile-motor"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "kids musical plastic keyboard with battery",
+    "item_ids": [
+      "electric-toy-keyboard"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "usb c cable",
+    "item_ids": [
+      "passive-cable"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "laptop brick charger",
+    "item_ids": [
+      "laptop-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "abgelaufene 9 volt batterie",
+    "item_ids": [
+      "nine-volt-battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+  },
+  {
+    "query": "corroded AA batteries",
+    "item_ids": [
+      "broken-lithium-battery"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "remote coin battery",
+    "item_ids": [
+      "battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+  },
+  {
+    "query": "tiny rechargeable powerbank",
+    "item_ids": [
+      "power-bank"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "handheld usb fan",
+    "item_ids": [
+      "usb-mini-fan"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "game console charging dock",
+    "item_ids": [
+      "controller-charging-dock"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "mobile phone case plastic",
+    "item_ids": [
+      "plastic-phone-case"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "old iPhone screen protector",
+    "item_ids": [
+      "screen-protector"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "dvd player with broken tray",
+    "item_ids": [
+      "dvd-player"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "digital shower radio",
+    "item_ids": [
+      "shower-radio"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "key fob car remote",
+    "item_ids": [
+      "key-fob"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "monitor stand plastic",
+    "item_ids": [
+      "plastic-monitor-riser"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "packing plastic straps",
+    "item_ids": [
+      "packing-strap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "separable paper and plastic bubble envelope",
+    "item_ids": [
+      "bubble-mailer"
+    ],
+    "expected_destinations": [
+      "paper",
+      "packaging"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "removable plastic ring on yogurt lid",
+    "item_ids": [
+      "plastic-lid"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "unbeschichtetes sauberes packpapier",
+    "item_ids": [
+      "paper-packing-filler"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "old lens cleaning wet wipe",
+    "item_ids": [
+      "lens-wipe"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "spülmittel kanister mit rest",
+    "item_ids": [
+      "hazard-cleaner-canister"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "old dryer fluff",
+    "item_ids": [
+      "dryer-lint"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "sack of branches from a pear tree",
+    "item_ids": [
+      "branches"
+    ],
+    "expected_destinations": [
+      "green"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "saw dust untreated wood",
+    "item_ids": [
+      "untreated-sawdust"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "small empty plastic plant marker",
+    "item_ids": [
+      "plastic-plant-tag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "old fertilizer with hazard pictogram",
+    "item_ids": [
+      "fertilizer"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "garden hose spray head made of plastic",
+    "item_ids": [
+      "hose-nozzle"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Schwarzer Plastiktopf für Zimmerpflanze",
+    "item_ids": [
+      "plastic-flowerpot"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "old cleaning brush plastic",
+    "item_ids": [
+      "cleaning-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "empty plastic cat litter jug",
+    "item_ids": [
+      "plastic-litter-jug"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "dog poop bags already used",
+    "item_ids": [
+      "dog-waste"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "old cat litter not sure what kind",
+    "item_ids": [
+      "untreated-cat-litter"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "non electric toy with metal and wood",
+    "item_ids": [
+      "mixed-material-toy"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "cracked reusable glass mug",
+    "item_ids": [
+      "wine-glass"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "reusable glass spice container bought empty",
+    "item_ids": [
+      "reusable-spice-container"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "old fabric scrunchie",
+    "item_ids": [
+      "fabric-scrunchie"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "clean wearable bathrobe",
+    "item_ids": [
+      "bathrobe"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "wooden high chair",
+    "item_ids": [
+      "wood-highchair"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
+  },
+  {
+    "query": "worn plastic hangers household",
+    "item_ids": [
+      "coat-hanger"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "unbrauchbar kaputte regiestuhl",
+    "item_ids": [
+      "director-chair"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "asbestos floor tile sample",
+    "item_ids": [
+      "asbestos-floor-tile"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "empty bicycle puncture glue tube",
+    "item_ids": [
+      "empty-patch-glue-tube"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "wet solvent wood stain",
+    "item_ids": [
+      "wood-stain"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "dripping paint roller",
+    "item_ids": [
+      "wet-roller"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "no pfand imported metal soda can",
+    "item_ids": [
+      "drink-can"
+    ],
+    "expected_destinations": [
+      "deposit",
+      "packaging"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "deposit glass beer bottle in germany",
+    "item_ids": [
+      "glass-bottle"
+    ],
+    "expected_destinations": [
+      "deposit",
+      "glass"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "gebrochener holzbilderrahmen mit glas",
+    "item_ids": [
+      "mixed-picture-frame"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "einwegkaffeebecher mit kunststoffbeschichtung",
+    "item_ids": [
+      "single-use-coffee-cup"
+    ],
+    "expected_destinations": [],
+    "clarification_required": false,
+    "expected_outcome": "unresolved",
+    "group": "authored household phrasing"
+  },
+  {
+    "query": "moldy apples whole",
+    "item_ids": [
+      "fruit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "expired jar of solid peanut butter",
+    "item_ids": [
+      "peanut-butter"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "authored household phrasing",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Karottengrün",
+    "item_ids": [
+      "carrot-tops"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Plastic sleeve around canned multipacks",
+    "item_ids": [
+      "plastic-multipack-sleeve"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "wall socket",
+    "item_ids": [
+      "wall-outlet"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+  },
+  {
+    "query": "Dachbalken",
+    "item_ids": [
+      "wood-rafters"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
+  },
+  {
+    "query": "Plain dried flowers without wire or decorations",
+    "item_ids": [
+      "dried-flowers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Small non-electric plastic pet brush",
+    "item_ids": [
+      "plastic-pet-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Katzenfutterbeutel",
+    "item_ids": [
+      "plastic-petfood-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "frying pan",
+    "item_ids": [
+      "frying-pan"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "mango stone",
+    "item_ids": [
+      "mango-pit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Blinkende Kinderschuhe",
+    "item_ids": [
+      "light-up-shoes"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Manual denture cleaning brush",
+    "item_ids": [
+      "denture-cleaning-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Hazard-labeled car polish with product remaining",
+    "item_ids": [
+      "hazard-car-polish"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "Hörhilfe mit Batterie",
+    "item_ids": [
+      "electric-hearing-aid"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "owner manual",
+    "item_ids": [
+      "paper-instructions"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Small plastic toilet seat that fits the bin",
+    "item_ids": [
+      "plastic-toilet-seat"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Digitalthermostat",
+    "item_ids": [
+      "electronic-thermostat"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "empty dental floss packaging",
+    "item_ids": [
+      "floss-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "desk lamp",
+    "item_ids": [
+      "electronic-luminaire"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Kunststoff-Schminkeinsatz",
+    "item_ids": [
+      "plastic-powder-refill-tray"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "VHS",
+    "item_ids": [
+      "cassette"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "quartz wristwatch",
+    "item_ids": [
+      "electric-watch"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Einweg-Mundschutz",
+    "item_ids": [
+      "face-mask"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "TV remote",
+    "item_ids": [
+      "remote-control"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "toothpaste packaging",
+    "item_ids": [
+      "toothpaste"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Kerzenglas",
+    "item_ids": [
+      "glass-candle-jar"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "PUR foam can",
+    "item_ids": [
+      "foam-can"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "berry punnet",
+    "item_ids": [
+      "plastic-produce-tray"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Pinsel mit trockener Farbe",
+    "item_ids": [
+      "dried-paint-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "plastic straw sleeve packaging",
+    "item_ids": [
+      "drink-straw-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Electronic stud finder",
+    "item_ids": [
+      "electric-stud-finder"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Plastik-Tierfigur",
+    "item_ids": [
+      "plastic-toy-animal"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "leftover meat",
+    "item_ids": [
+      "meat"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "cold ash",
+    "item_ids": [
+      "cold-ash"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Metall-Verschlussclip",
+    "item_ids": [
+      "wire-packaging-tie"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Non-electric plastic hair roller",
+    "item_ids": [
+      "plastic-hair-roller"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Battery-powered musical stuffed toy",
+    "item_ids": [
+      "electric-musical-toy"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Rasiererblister-Papprücken",
+    "item_ids": [
+      "razor-blister-backing"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "limestone rubble",
+    "item_ids": [
+      "limestone-rubble"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "bedsheet",
+    "item_ids": [
+      "bedding"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "Plastikbrett",
+    "item_ids": [
+      "plastic-cutting-board"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Mattress",
+    "item_ids": [
+      "mattress"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Small plastic play food",
+    "item_ids": [
+      "plastic-toy-food"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Tageslinse",
+    "item_ids": [
+      "contact-lens"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "cereal carton",
+    "item_ids": [
+      "cereal-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "cherry stones",
+    "item_ids": [
+      "cherry-pits"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Elektrobackofen",
+    "item_ids": [
+      "electric-oven"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "electronic picture frame",
+    "item_ids": [
+      "digital-picture-frame"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "room dehumidifier",
+    "item_ids": [
+      "dehumidifier"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Kunststoff-Haken",
+    "item_ids": [
+      "plastic-wall-hook"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "WC bowl",
+    "item_ids": [
+      "toilet"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "plastic sports bottle",
+    "item_ids": [
+      "plastic-drink-bottle"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Heissklebepistole",
+    "item_ids": [
+      "electric-glue-gun"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Mustard jar",
+    "item_ids": [
+      "mustard-jar"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "bread maker",
+    "item_ids": [
+      "bread-machine"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Kurze Jeanshose",
+    "item_ids": [
+      "usable-denim-shorts"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "Fire extinguisher",
+    "item_ids": [
+      "fire-extinguisher"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "nylon tea bag",
+    "item_ids": [
+      "plastic-teabag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "KDI-Holz",
+    "item_ids": [
+      "outdoor-timber"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=27"
+  },
+  {
+    "query": "electric deli slicer",
+    "item_ids": [
+      "electric-food-slicer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "cotton ball",
+    "item_ids": [
+      "cotton-ball"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Computeruhr",
+    "item_ids": [
+      "smartwatch"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "yogurt cardboard sleeve",
+    "item_ids": [
+      "yogurt-paper-sleeve"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "musical greeting card",
+    "item_ids": [
+      "music-card"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Mundspülungsflasche",
+    "item_ids": [
+      "mouthwash-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Undecorated natural Christmas tree",
+    "item_ids": [
+      "natural-christmas-tree"
+    ],
+    "expected_destinations": [
+      "green"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/anlieferstellen/"
+  },
+  {
+    "query": "cable modem",
+    "item_ids": [
+      "modem"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "PC-Maus",
+    "item_ids": [
+      "mouse"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "air pillow packaging",
+    "item_ids": [
+      "plastic-packing-pillow"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "slow cooker",
+    "item_ids": [
+      "slow-cooker"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Marmeladengläser",
+    "item_ids": [
+      "jam-jar"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "digital photo camera",
+    "item_ids": [
+      "camera"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "hedge trimmings",
+    "item_ids": [
+      "garden-cuttings"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Milchproduktreste",
+    "item_ids": [
+      "dairy"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "Plastic binder divider",
+    "item_ids": [
+      "plastic-binder-divider"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "desktop",
+    "item_ids": [
+      "computer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Aufsteckbürste",
+    "item_ids": [
+      "electric-brush-replacement-head"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "cleaning cloth",
+    "item_ids": [
+      "cleaning-rag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Small plastic headband",
+    "item_ids": [
+      "plastic-headband"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Chemikalienbehälter mit Resten",
+    "item_ids": [
+      "chemical-containers"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "dead flowers",
+    "item_ids": [
+      "flowers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "plastic watering can",
+    "item_ids": [
+      "plastic-watering-can"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Kerzenwachs",
+    "item_ids": [
+      "candle-wax"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "empty pen",
+    "item_ids": [
+      "empty-pen"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Clean wearable fleece jacket",
+    "item_ids": [
+      "usable-fleece-jacket"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "nicht wasserlösliche Farbe",
+    "item_ids": [
+      "non-water-paint"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "automatic pet feeder",
+    "item_ids": [
+      "electric-pet-feeder"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "dress pants",
+    "item_ids": [
+      "wearable-trousers"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "Kunststoff-Futterschaufel",
+    "item_ids": [
+      "plastic-pet-scoop"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Electric hot water dispenser",
+    "item_ids": [
+      "electric-hot-water-dispenser"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "bed frame",
+    "item_ids": [
+      "bed-frame"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
+  },
+  {
+    "query": "Kapuzenpulli",
+    "item_ids": [
+      "hoodie"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "plastic toy car",
+    "item_ids": [
+      "plastic-toy-car"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Composite tuna pouch",
+    "item_ids": [
+      "foil-tuna-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Plastik-Wender",
+    "item_ids": [
+      "plastic-spatula"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Electric shoe dryer",
+    "item_ids": [
+      "electric-shoe-dryer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "plastic toothbrush packaging",
+    "item_ids": [
+      "toothbrush-blister"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Krepppapier",
+    "item_ids": [
+      "crepe-paper"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "set-top box",
+    "item_ids": [
+      "tv-receiver"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "plastic vase",
+    "item_ids": [
+      "plastic-vase"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Haar",
+    "item_ids": [
+      "hair"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "feather",
+    "item_ids": [
+      "feathers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "stale popcorn",
+    "item_ids": [
+      "popcorn"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Kinderbekleidung",
+    "item_ids": [
+      "kids-clothes"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "antifreeze",
+    "item_ids": [
+      "antifreeze"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "catalogue",
+    "item_ids": [
+      "catalog"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Lithium-Primärzelle",
+    "item_ids": [
+      "lithium-primary-cell"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=29"
+  },
+  {
+    "query": "old flour",
+    "item_ids": [
+      "flour"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "laminate floor",
+    "item_ids": [
+      "laminate"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Biomüllpapiertüte",
+    "item_ids": [
+      "paper-bio-bag"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Reusable plastic lint roller handle",
+    "item_ids": [
+      "plastic-lint-roller-handle"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Plain cardboard document folder",
+    "item_ids": [
+      "cardboard-folder"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Stabmixer",
+    "item_ids": [
+      "blender"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "cleaning spray bottle",
+    "item_ids": [
+      "household-cleaner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "hazardous"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "vacuum wrap",
+    "item_ids": [
+      "vacuum-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Kaffeemahlwerk",
+    "item_ids": [
+      "electric-grinder"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "clothes cupboard",
+    "item_ids": [
+      "wardrobe"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Household plastic garden hose",
+    "item_ids": [
+      "plastic-hose"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Bindenverpackungsfolie",
+    "item_ids": [
+      "plastic-pad-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "forks and spoons",
+    "item_ids": [
+      "cutlery"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "powered sewing machine",
+    "item_ids": [
+      "sewing-machine"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Kunststoff-Spitzer",
+    "item_ids": [
+      "plastic-pencil-sharpener"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "coffee grounds in paper filter",
+    "item_ids": [
+      "coffee-filter"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "espresso maker",
+    "item_ids": [
+      "espresso-machine"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Elektrospielzeug",
+    "item_ids": [
+      "electronic-toy"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Cut shrub branches without root ball",
+    "item_ids": [
+      "removed-shrub-branches"
+    ],
+    "expected_destinations": [
+      "green"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/anlieferstellen/"
+  },
+  {
+    "query": "filament bulb",
+    "item_ids": [
+      "incandescent-bulb"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Sporthose aus Stoff",
+    "item_ids": [
+      "usable-sweatpants"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "scouring sponge",
+    "item_ids": [
+      "cleaning-sponge"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Completely empty plastic artist paint tube",
+    "item_ids": [
+      "plastic-paint-tube"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "USB Speicherstick",
+    "item_ids": [
+      "usb-stick"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Clean plain cardboard soap carton",
+    "item_ids": [
+      "soap-carton"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "photo printer paper",
+    "item_ids": [
+      "photo-paper"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Schallplatte",
+    "item_ids": [
+      "record"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "compact disc",
+    "item_ids": [
+      "cd"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=38"
+  },
+  {
+    "query": "glass face cream pot",
+    "item_ids": [
+      "glass-cream-pot"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "Luftbefeuchter",
+    "item_ids": [
+      "humidifier"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Used dental floss",
+    "item_ids": [
+      "dental-floss"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "tealight cup",
+    "item_ids": [
+      "tealight"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Glas-Foundationflasche",
+    "item_ids": [
+      "glass-foundation-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "herbicide leftovers",
+    "item_ids": [
+      "weedkiller"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "water flosser",
+    "item_ids": [
+      "electric-water-flosser"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Orangennetz",
+    "item_ids": [
+      "produce-net"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "plastic bath toy",
+    "item_ids": [
+      "plastic-bath-toy"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "sanitary towel",
+    "item_ids": [
+      "sanitary-pad"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Alte Tabletten",
+    "item_ids": [
+      "expired-tablets"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "Plug-in USB wall charger",
+    "item_ids": [
+      "usb-wall-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Hazard-labeled moth treatment leftovers",
+    "item_ids": [
+      "hazard-moth-treatment"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=30"
+  },
+  {
+    "query": "Pizzaschutzfolie",
+    "item_ids": [
+      "frozen-pizza-film"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Plastic hummus tub",
+    "item_ids": [
+      "plastic-hummus-tub"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Used small plastic nail file",
+    "item_ids": [
+      "used-nail-file"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Plastik-Strohhalm",
+    "item_ids": [
+      "plastic-straw"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Non-deposit glass juice bottle",
+    "item_ids": [
+      "glass-juice-no-deposit"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "Empty plastic cotton swab tub",
+    "item_ids": [
+      "plastic-cotton-swab-tub"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Gekochte Linsenreste",
+    "item_ids": [
+      "cooked-lentils"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "glass plate",
+    "item_ids": [
+      "glass-plate"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "battery chainsaw",
+    "item_ids": [
+      "electric-chain-saw"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Schwingschleifer",
+    "item_ids": [
+      "electric-sander"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "deodorant stick packaging",
+    "item_ids": [
+      "deodorant-stick-case"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "receipt",
+    "item_ids": [
+      "receipt"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Lerncomputer für Kinder",
+    "item_ids": [
+      "kids-tablet"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "cell phone",
+    "item_ids": [
+      "phone"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "natural wood wool",
+    "item_ids": [
+      "wood-wool"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Ebook-Reader",
+    "item_ids": [
+      "e-reader"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Bulky wooden headboard without electricity",
+    "item_ids": [
+      "wooden-headboard"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
+  },
+  {
+    "query": "CO alarm",
+    "item_ids": [
+      "smoke-carbon-monoxide-alarm"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Plastikwürfel",
+    "item_ids": [
+      "plastic-dice"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "wood preservative",
+    "item_ids": [
+      "wood-preserver"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "jumper",
+    "item_ids": [
+      "sweater"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "Fitnessarmband",
+    "item_ids": [
+      "fitness-tracker"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Cauliflower leaves",
+    "item_ids": [
+      "cauliflower-leaves"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "bioplastic liner",
+    "item_ids": [
+      "compostable-plastic-liner"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "Plüschtier",
+    "item_ids": [
+      "stuffed-toy"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "frozen vegetable bag",
+    "item_ids": [
+      "frozen-food-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "letter paper",
+    "item_ids": [
+      "letter"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Elektrische Gewürzmühle",
+    "item_ids": [
+      "electric-pepper-mill"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "plastic paint palette",
+    "item_ids": [
+      "plastic-paint-palette"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "powered milk whisk",
+    "item_ids": [
+      "electric-milk-frother"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Kochtopf",
+    "item_ids": [
+      "saucepan"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "plastic water bottle",
+    "item_ids": [
+      "plastic-drink-packaging"
+    ],
+    "expected_destinations": [
+      "deposit",
+      "packaging"
+    ],
+    "clarification_required": true,
+    "expected_outcome": "clarification",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "used tampon",
+    "item_ids": [
+      "tampon"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Kugelschreibermine",
+    "item_ids": [
+      "pen-refill"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "buttermilk pot",
+    "item_ids": [
+      "buttermilk-cup"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "birthday card",
+    "item_ids": [
+      "paper-greeting-card"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Pizzarandreste",
+    "item_ids": [
+      "pizza-leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "plastic takeaway tray",
+    "item_ids": [
+      "takeout-tray"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Clean usable fabric apron",
+    "item_ids": [
+      "usable-kitchen-apron"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "Wasserkocher",
+    "item_ids": [
+      "kettle"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "hard plastic pencil box",
+    "item_ids": [
+      "plastic-pencil-case"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "LED tealight",
+    "item_ids": [
+      "electric-tealight"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Notebook",
+    "item_ids": [
+      "laptop"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "ceramic tiles",
+    "item_ids": [
+      "tiles"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Electric vacuum food sealer",
+    "item_ids": [
+      "electric-food-saver"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Pyjama",
+    "item_ids": [
+      "wearable-pajamas"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=32"
+  },
+  {
+    "query": "aerated block",
+    "item_ids": [
+      "aerated-concrete"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "glass baking dish",
+    "item_ids": [
+      "glass-oven-dish"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "Fischabfälle",
+    "item_ids": [
+      "fish"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "garlic peel",
+    "item_ids": [
+      "garlic-skins"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=19"
+  },
+  {
+    "query": "couch",
+    "item_ids": [
+      "sofa"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/"
+  },
+  {
+    "query": "Kontaktgrill",
+    "item_ids": [
+      "electric-grill"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "cheese rind",
+    "item_ids": [
+      "cheese"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "vape",
+    "item_ids": [
+      "vape"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Hühnerknochen",
+    "item_ids": [
+      "bones"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/"
+  },
+  {
+    "query": "fridge",
+    "item_ids": [
+      "fridge"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "indoor used lumber",
+    "item_ids": [
+      "indoor-wood"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=26"
+  },
+  {
+    "query": "Tetrapack",
+    "item_ids": [
+      "milk-carton"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "lotion tube",
+    "item_ids": [
+      "plastic-cream-tube"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "Non-packaging plastic craft foam",
+    "item_ids": [
+      "craft-plastic-foam"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Würzsoßenflasche aus Glas",
+    "item_ids": [
+      "glass-jam-mini"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=17"
+  },
+  {
+    "query": "yogurt cup",
+    "item_ids": [
+      "yogurt"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "plastic building block",
+    "item_ids": [
+      "plastic-building-brick"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Kunststoff-Küchentrichter",
+    "item_ids": [
+      "small-plastic-funnel"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Small plastic jump rope",
+    "item_ids": [
+      "plastic-jump-rope"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "fluorescent lamp",
+    "item_ids": [
+      "fluorescent-tube"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  },
+  {
+    "query": "Plastikversandtasche",
+    "item_ids": [
+      "plastic-mailer"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=15"
+  },
+  {
+    "query": "sheet protector",
+    "item_ids": [
+      "plastic-pocket"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=21"
+  },
+  {
+    "query": "Clean cardboard toothpaste box",
+    "item_ids": [
+      "toothpaste-carton"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=13"
+  },
+  {
+    "query": "Elektrofondue",
+    "item_ids": [
+      "electric-fondue"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "clarification_required": false,
+    "expected_outcome": "verified",
+    "group": "Phase 3 stratified language sample",
+    "source_url": "https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/abfall-app-abfallkalender-abfallbroschuere/bro-abfallkalender-2026-ansicht-final.pdf?cid=i0y#page=28"
+  }
+]
