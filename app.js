@@ -24,6 +24,7 @@ const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({
 
 let items = [];
 let index = [];
+let pendingTerms = new Set();
 let categories = {};
 let updatedAt;
 let ready = false;
@@ -91,7 +92,7 @@ function home() {
 }
 
 function matches(view) {
-  const hits = search(index, field.value);
+  const hits = search(index, field.value, pendingTerms);
   announce.textContent = hits.length ? `${hits.length} matching items` : missing;
   if (!hits.length) return `<div class="card"><p>${missing}</p></div>`;
   if (view !== 'az' && hits[0].score === 100 && hits[1]?.score !== 100) {
@@ -159,16 +160,13 @@ function render() {
 document.querySelector('#search-form').addEventListener('submit', event => {
   event.preventDefault();
   if (!ready) return;
-  const hit = search(index, field.value)[0];
-  if (hit?.score === 100) {
-    const exact = search(index, field.value).filter(result => result.score === 100);
-    if (exact.length === 1) location.hash = 'item/' + hit.item.id;
-  }
+  const [first, second] = search(index, field.value, pendingTerms);
+  if (first?.score === 100 && second?.score !== 100) location.hash = 'item/' + first.item.id;
 });
 field.addEventListener('input', render);
 field.addEventListener('change', () => {
   if (!ready || route()[0] === 'az') return;
-  const hits = search(index, field.value);
+  const hits = search(index, field.value, pendingTerms);
   if (hits[0]?.score === 100 && hits[1]?.score !== 100) remember(hits[0].item.id);
 });
 document.querySelector('nav').addEventListener('click', event => {
@@ -202,11 +200,16 @@ async function json(path) {
 }
 
 try {
-  const [data, categoryData] = await Promise.all([json('./data/waste-items.json'), json('./data/categories.json')]);
+  const [data, categoryData, pending] = await Promise.all([
+    json('./data/waste-items.json'),
+    json('./data/categories.json'),
+    json('./data/pending-items.json')
+  ]);
   categories = categoryData;
   items = verifiedItems(data.items).sort((a, b) => a.name_en.localeCompare(b.name_en, 'en'));
   updatedAt = data.updated_at;
   index = makeIndex(items);
+  pendingTerms = new Set(makeIndex(pending).flatMap(entry => entry.names));
   ready = true;
 } catch {
   failed = true;

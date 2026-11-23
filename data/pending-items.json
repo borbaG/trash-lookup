@@ -1,1 +1,479 @@
-[]
+[
+  {
+    "id": "coffee-capsule",
+    "name_en": "Used coffee capsule",
+    "name_de": "Gebrauchte Kaffeekapsel",
+    "synonyms_en": [
+      "coffee pod",
+      "coffee capsule"
+    ],
+    "synonyms_de": [
+      "Kaffee-Kapsel"
+    ],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "plastic-teabag",
+    "name_en": "Plastic-containing tea bag after emptying",
+    "name_de": "Teebeutel mit Kunststoffanteil nach dem Entleeren",
+    "synonyms_en": [
+      "plastic pyramid tea bag",
+      "nylon tea bag"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "single-use-coffee-cup",
+    "name_en": "Disposable takeaway coffee cup",
+    "name_de": "Einweg-Kaffeebecher",
+    "synonyms_en": [
+      "takeaway cup",
+      "paper coffee cup"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "compostable-plastic-liner",
+    "name_en": "Compostable plastic bin liner",
+    "name_de": "Kompostierbarer Kunststoff-Müllbeutel",
+    "synonyms_en": [
+      "compostable plastic bag",
+      "bioplastic liner"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "liquid-latex-paint",
+    "name_en": "Liquid water-based paint that cannot be dried",
+    "name_de": "Flüssige Dispersionsfarbe, die nicht aushärten kann",
+    "synonyms_en": [
+      "wet latex paint",
+      "liquid wall paint"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "empty-hazard-bottle",
+    "name_en": "Empty container with a hazardous product label",
+    "name_de": "Leerer Behälter mit Gefahrensymbol",
+    "synonyms_en": [
+      "empty chemical bottle",
+      "empty hazardous container"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "steamable-pouch",
+    "name_en": "Cook-in packaging pouch with unknown layers",
+    "name_de": "Kochbeutel mit unbekanntem Materialaufbau",
+    "synonyms_en": [
+      "microwave pouch",
+      "boil in bag"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "diaper-pail-liner",
+    "name_en": "Multi-layer diaper pail liner",
+    "name_de": "Mehrschichtiger Windeleimerbeutel",
+    "synonyms_en": [
+      "diaper genie refill",
+      "nappy bin liner"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "broken-mug-material",
+    "name_en": "Broken mug of unknown material",
+    "name_de": "Kaputte Tasse aus unbekanntem Material",
+    "synonyms_en": [
+      "broken mug",
+      "broken cup"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "carbon-filter",
+    "name_en": "Used activated carbon water filter",
+    "name_de": "Benutzter Aktivkohle-Wasserfilter",
+    "synonyms_en": [
+      "water filter cartridge",
+      "Brita filter"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "broken-lithium-battery",
+    "name_en": "Damaged or swollen lithium battery",
+    "name_de": "Beschädigter oder aufgeblähter Lithium-Akku",
+    "synonyms_en": [
+      "swollen battery",
+      "puffy lithium battery"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "large-ebike-battery",
+    "name_en": "E-bike battery outside the documented weight limit",
+    "name_de": "E-Bike-Akku außerhalb der angegebenen Gewichtsgrenze",
+    "synonyms_en": [
+      "heavy e-bike battery",
+      "heavy e-bike pack"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "whole-ebike",
+    "name_en": "Complete electric bicycle",
+    "name_de": "Komplettes Elektrofahrrad",
+    "synonyms_en": [
+      "e-bike",
+      "pedelec"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "isolation-glazing",
+    "name_en": "Insulated glazing unit with sealant",
+    "name_de": "Isolierglaseinheit mit Dichtstoff",
+    "synonyms_en": [
+      "double-glazed window assembly"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "gas-bottle-unknown",
+    "name_en": "Gas cylinder with unknown contents",
+    "name_de": "Gasflasche mit unbekanntem Inhalt",
+    "synonyms_en": [
+      "propane tank",
+      "gas cylinder"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "untreated-cat-litter",
+    "name_en": "Used cat litter of unknown composition",
+    "name_de": "Benutzte Katzenstreu unbekannter Zusammensetzung",
+    "synonyms_en": [
+      "cat litter",
+      "Katzenstreu"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "dog-waste",
+    "name_en": "Bagged dog waste",
+    "name_de": "Verpackter Hundekot",
+    "synonyms_en": [
+      "dog poop",
+      "dog poo"
+    ],
+    "synonyms_de": [
+      "Hundekot"
+    ],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "medical-blister-contents",
+    "name_en": "Partially full medication blister",
+    "name_de": "Teilweise gefüllter Tablettenblister",
+    "synonyms_en": [
+      "pill pack with pills"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "baby-bottle",
+    "name_en": "Multi-material reusable baby bottle",
+    "name_de": "Mehrteilige wiederverwendbare Babyflasche",
+    "synonyms_en": [
+      "baby bottle",
+      "feeding bottle"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "mixed-material-toy",
+    "name_en": "Broken toy with unknown components",
+    "name_de": "Kaputtes Spielzeug unbekannter Zusammensetzung",
+    "synonyms_en": [
+      "broken toy",
+      "unknown toy"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "reusable-water-filter-pitcher",
+    "name_en": "Mixed-material filter pitcher",
+    "name_de": "Wasserfilterkanne aus Mischmaterial",
+    "synonyms_en": [
+      "water filter jug"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "wallpaper-paste",
+    "name_en": "Leftover wallpaper paste",
+    "name_de": "Tapetenkleisterreste",
+    "synonyms_en": [
+      "wallpaper glue",
+      "wallpaper adhesive"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "mixed-textile-shoe",
+    "name_en": "Single reusable shoe without its pair",
+    "name_de": "Einzelner brauchbarer Schuh ohne Gegenstück",
+    "synonyms_en": [
+      "single shoe",
+      "unpaired shoe"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "steam-vape-pod",
+    "name_en": "Removed e-cigarette liquid pod with residue",
+    "name_de": "Entnommener E-Zigaretten-Pod mit Liquidresten",
+    "synonyms_en": [
+      "vape pod refill",
+      "used vape cartridge"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "art-pastel",
+    "name_en": "Unidentified pastel or crayon leftovers",
+    "name_de": "Nicht näher bestimmte Pastell- oder Wachsmalstiftreste",
+    "synonyms_en": [
+      "pastel stick",
+      "crayon scraps"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "hair-dye",
+    "name_en": "Mixed hair dye with unknown constituents",
+    "name_de": "Angemischte Haarfarbe mit unbekannten Bestandteilen",
+    "synonyms_en": [
+      "hair color leftovers",
+      "hair dye leftovers"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "sink-oil-mixture",
+    "name_en": "Household liquid mixture containing grease",
+    "name_de": "Haushaltsflüssigkeit mit Fettanteil",
+    "synonyms_en": [
+      "greasy dish liquid",
+      "oil and water mixture"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  },
+  {
+    "id": "wooden-toy",
+    "name_en": "Wooden toy with unknown finish",
+    "name_de": "Holzspielzeug mit unbekannter Oberfläche",
+    "synonyms_en": [
+      "old wooden toy",
+      "painted wood toy"
+    ],
+    "synonyms_de": [],
+    "category": null,
+    "instructions_en": "",
+    "warnings": [],
+    "clarification": null,
+    "source_url": null,
+    "verification_status": "pending",
+    "verified_at": null
+  }
+]

@@ -34,15 +34,20 @@ export function scoreMatch(name, query) {
   if (name.includes(query)) return 60;
   const words = query.split(' ');
   if (words.every(word => parts.some(part => part.startsWith(word)))) return 50;
+  if (query.length >= 4 && near(query, name)) return 40;
   if (words.every(word => parts.some(part => part === word || (word.length >= 4 && near(word, part))))) return 30;
-  return query.length >= 4 && near(query, name) ? 25 : 0;
+  return 0;
 }
 
-export function search(index, input) {
+export function search(index, input, pendingTerms) {
   const query = normalize(input);
   if (!query) return [];
+  // An exact pending name must not be redirected to a similar verified item.
+  const minimumScore = pendingTerms?.has(query) ? 100 : 1;
   return index.flatMap(({ item, names }) => {
-    const score = Math.max(...names.map(name => scoreMatch(name, query)));
-    return score ? [{ item, score }] : [];
+    const score = minimumScore === 100
+      ? (names.includes(query) ? 100 : 0)
+      : Math.max(...names.map(name => scoreMatch(name, query)));
+    return score >= minimumScore ? [{ item, score }] : [];
   }).sort((a, b) => b.score - a.score || a.item.name_en.localeCompare(b.item.name_en));
 }

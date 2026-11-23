@@ -102,5 +102,13 @@
     "color": "#3e5e68",
     "icon": "facility",
     "instructions": "Check the facility’s accepted materials before visiting."
+  },
+  "textiles": {
+    "name_de": "Alttextilien",
+    "name_en": "Used-textile collection container",
+    "group": "recycling",
+    "color": "#6a4f81",
+    "icon": "facility",
+    "instructions": "Pack it clean and dry and use an Alttextilien collection container."
   }
 }

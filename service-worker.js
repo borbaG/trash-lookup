@@ -1,11 +1,11 @@
 // Increment VERSION whenever a precached file changes.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const scope = self.registration.scope;
 const cachePrefix = 'trash-lookup:' + scope + ':';
 const cacheName = cachePrefix + VERSION;
 const shell = [
   'index.html', 'styles.css', 'app.js', 'search.js', 'manifest.json',
-  'data/waste-items.json', 'data/categories.json', 'icons/icon.svg',
+  'data/waste-items.json', 'data/categories.json', 'data/pending-items.json', 'icons/icon.svg',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable.png'
 ];
 const assets = new Set(shell.map(path => new URL(path, scope).href));
