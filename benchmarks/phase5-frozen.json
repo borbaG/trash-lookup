@@ -1,0 +1,4682 @@
+[
+  {
+    "query": "candy wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "candy wrappers",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "sweet wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "chocolate wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "chocolate bar wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Snickers wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Mars bar wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Twix wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "KitKat wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "gummy candy bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Haribo bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "chip bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "chips bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "snack wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "granola bar wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "protein bar wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "energy bar wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "cookie wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "biscuit wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "gum wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "chewing gum wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "ice cream wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "popsicle wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "popcorn bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "fruit snack wrapper",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "fruit snack pouch",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Where does a candy wrapper go?",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Empty chip bag",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Bonbonpapier",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Schokoriegel Verpackung",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Gummibärchentüte",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Bonbonverpackung",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Kit Kat wrappers",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Schokoriegelpapier",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Bonbon tüte",
+    "item_ids": [
+      "snack-wrapper-material"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "crisps packet",
+    "item_ids": [
+      "chip-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "foil potato chips packet",
+    "item_ids": [
+      "chip-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic potato chip bag",
+    "item_ids": [
+      "chip-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cereal bag",
+    "item_ids": [
+      "plastic-cereal-liner"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic cereal bag",
+    "item_ids": [
+      "plastic-cereal-liner"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Müsli Innenbeutel",
+    "item_ids": [
+      "plastic-cereal-liner"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "juice pouch",
+    "item_ids": [
+      "foil-juice-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Capri-Sun pouch",
+    "item_ids": [
+      "foil-juice-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Capri Sun drink pack",
+    "item_ids": [
+      "foil-juice-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "leerer Trinkbeutel",
+    "item_ids": [
+      "foil-juice-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic candy wrapper",
+    "item_ids": [
+      "candy-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Kunststoffbonbonfolie",
+    "item_ids": [
+      "candy-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "food scraps",
+    "item_ids": [
+      "leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "leftover food",
+    "item_ids": [
+      "leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "solid leftovers",
+    "item_ids": [
+      "leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "where do I put food leftovers?",
+    "item_ids": [
+      "leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Essensreste",
+    "item_ids": [
+      "leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "chicken bones",
+    "item_ids": [
+      "bones"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "chicken bone",
+    "item_ids": [
+      "bones"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Hühner Knochen",
+    "item_ids": [
+      "bones"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "eggshells",
+    "item_ids": [
+      "eggshell"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "egg shells",
+    "item_ids": [
+      "eggshell"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Eierschalen",
+    "item_ids": [
+      "eggshell"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used paper towel",
+    "item_ids": [
+      "paper-towel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "paper towels",
+    "item_ids": [
+      "paper-towel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used kitchen paper",
+    "item_ids": [
+      "paper-towel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Küchenkrepp",
+    "item_ids": [
+      "paper-towel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Where do I put used paper towels?",
+    "item_ids": [
+      "paper-towel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used paper napkin",
+    "item_ids": [
+      "napkin"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "paper napkins",
+    "item_ids": [
+      "napkin"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Serviette aus Papier",
+    "item_ids": [
+      "napkin"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic wrap from packaging",
+    "item_ids": [
+      "plastic-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic sandwich bread packaging bag",
+    "item_ids": [
+      "plastic-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "aluminum foil packaging",
+    "item_ids": [
+      "foil"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "tin foil packaging",
+    "item_ids": [
+      "foil"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "takeout containers",
+    "item_ids": [
+      "takeout-container"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "takeaway box",
+    "item_ids": [
+      "takeout-container"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "to go food container",
+    "item_ids": [
+      "takeout-container"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "disposable plates",
+    "item_ids": [
+      "battery-free-disposable-dishes"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "disposable cups sold empty",
+    "item_ids": [
+      "battery-free-disposable-dishes"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "compostable disposable plate",
+    "item_ids": [
+      "battery-free-disposable-dishes"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "coffee filters",
+    "item_ids": [
+      "coffee-filter"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used paper coffee filter",
+    "item_ids": [
+      "coffee-filter"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "coffee pods",
+    "item_ids": [
+      "coffee-capsule"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "K cup with grounds",
+    "item_ids": [
+      "coffee-capsule"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "used coffee pod",
+    "item_ids": [
+      "coffee-capsule"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "plastic free tea bags",
+    "item_ids": [
+      "teabag"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Where does a plastic-free tea bag go?",
+    "item_ids": [
+      "teabag"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "tea bags",
+    "item_ids": [
+      "tea-bag-material"
+    ],
+    "expected_destinations": [
+      "organic",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "used tea bag",
+    "item_ids": [
+      "tea-bag-material"
+    ],
+    "expected_destinations": [
+      "organic",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Teebeutel",
+    "item_ids": [
+      "tea-bag-material"
+    ],
+    "expected_destinations": [
+      "organic",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "yogurt containers",
+    "item_ids": [
+      "yogurt"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "yogurt tubs",
+    "item_ids": [
+      "yogurt"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Joghurt Becher",
+    "item_ids": [
+      "yogurt"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "foil butter wrappers",
+    "item_ids": [
+      "butter-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Butterfolie",
+    "item_ids": [
+      "butter-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic cheese wrappers",
+    "item_ids": [
+      "plastic-cheese-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cheese slice packet",
+    "item_ids": [
+      "plastic-cheese-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "juice boxes",
+    "item_ids": [
+      "milk-carton"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "milk cartons",
+    "item_ids": [
+      "milk-carton"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Tetrapak",
+    "item_ids": [
+      "milk-carton"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "toilet paper rolls",
+    "item_ids": [
+      "paper-tube"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "toilet roll tube",
+    "item_ids": [
+      "paper-tube"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Klopapier Papprolle",
+    "item_ids": [
+      "paper-tube"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cotton swabs",
+    "item_ids": [
+      "cotton-swab"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Q tips",
+    "item_ids": [
+      "cotton-swab"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cotton buds",
+    "item_ids": [
+      "cotton-swab"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Watte Staebchen",
+    "item_ids": [
+      "cotton-swab"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cotton balls",
+    "item_ids": [
+      "cotton-ball"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Wattebausch",
+    "item_ids": [
+      "cotton-ball"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used floss",
+    "item_ids": [
+      "dental-floss"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dental floss",
+    "item_ids": [
+      "dental-floss"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "toothpaste tubes",
+    "item_ids": [
+      "toothpaste"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty toothpaste tube",
+    "item_ids": [
+      "toothpaste"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "leere Zahncremetube",
+    "item_ids": [
+      "toothpaste"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "disposable razor cartridge",
+    "item_ids": [
+      "manual-razor-cartridge"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used razor refill",
+    "item_ids": [
+      "manual-razor-cartridge"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "disposable razors",
+    "item_ids": [
+      "disposable-razor"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Einweg Rasierer",
+    "item_ids": [
+      "disposable-razor"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty shampoo bottle",
+    "item_ids": [
+      "glass-shampoo-bottle",
+      "plastic-shampoo"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "shampoo bottles",
+    "item_ids": [
+      "glass-shampoo-bottle",
+      "plastic-shampoo"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "where does an empty shampoo bottle go?",
+    "item_ids": [
+      "glass-shampoo-bottle",
+      "plastic-shampoo"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "empty plastic conditioner bottle",
+    "item_ids": [
+      "plastic-hair-conditioner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic hair conditioner bottle",
+    "item_ids": [
+      "plastic-hair-conditioner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "makeup wipes",
+    "item_ids": [
+      "used-wet-wipe"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "baby wipes",
+    "item_ids": [
+      "used-wet-wipe"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dirty wet wipes",
+    "item_ids": [
+      "used-wet-wipe"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dirty diapers",
+    "item_ids": [
+      "diaper"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used diaper",
+    "item_ids": [
+      "diaper"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dirty nappy",
+    "item_ids": [
+      "diaper"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty contact lens packaging",
+    "item_ids": [
+      "contact-lens-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "contact lens blister pack",
+    "item_ids": [
+      "contact-lens-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "coloring books",
+    "item_ids": [
+      "paper-coloring-book"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "colouring book",
+    "item_ids": [
+      "paper-coloring-book"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Malbücher aus Papier",
+    "item_ids": [
+      "paper-coloring-book"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plain paper sketch pad",
+    "item_ids": [
+      "paper-drawing-pad"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "uncoated drawing paper pad",
+    "item_ids": [
+      "paper-drawing-pad"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty pens",
+    "item_ids": [
+      "empty-pen"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty ballpoint pens",
+    "item_ids": [
+      "empty-pen"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dried out markers",
+    "item_ids": [
+      "empty-marker"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty felt tip pen",
+    "item_ids": [
+      "empty-marker"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty glue stick packaging",
+    "item_ids": [
+      "plastic-gluestick-case"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "empty plastic glue stick tube",
+    "item_ids": [
+      "plastic-gluestick-case"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "LEGO pieces",
+    "item_ids": [
+      "plastic-building-brick"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "LEGO blocks",
+    "item_ids": [
+      "plastic-building-brick"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Legosteine",
+    "item_ids": [
+      "plastic-building-brick"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "erasers",
+    "item_ids": [
+      "rubber-eraser"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "eraser rubber",
+    "item_ids": [
+      "rubber-eraser"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Radier Gummi",
+    "item_ids": [
+      "rubber-eraser"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "plastic craft foam",
+    "item_ids": [
+      "craft-plastic-foam"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Moosgummi aus Kunststoff",
+    "item_ids": [
+      "craft-plastic-foam"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Play-Doh",
+    "item_ids": [
+      "modeling-clay"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "play dough",
+    "item_ids": [
+      "modeling-clay"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "modeling clay",
+    "item_ids": [
+      "modeling-clay"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "crayons",
+    "item_ids": [
+      "art-pastel"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "broken crayons",
+    "item_ids": [
+      "art-pastel"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "glitter",
+    "item_ids": [
+      "craft-glitter"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "loose glitter",
+    "item_ids": [
+      "craft-glitter"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "broken toys",
+    "item_ids": [
+      "mixed-material-toy"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "broken toy with unknown parts",
+    "item_ids": [
+      "mixed-material-toy"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "broken plastic toy car with no batteries",
+    "item_ids": [
+      "plastic-toy-car"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dust from sweeping",
+    "item_ids": [
+      "dust-sweepings"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "floor dust",
+    "item_ids": [
+      "dust-sweepings"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "used vacuum cleaner bag",
+    "item_ids": [
+      "vacuum-bag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "hoover bags",
+    "item_ids": [
+      "vacuum-bag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "dog poop",
+    "item_ids": [
+      "dog-waste"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "used dog waste bags",
+    "item_ids": [
+      "dog-waste"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "cat litter",
+    "item_ids": [
+      "bio-litter",
+      "cat-litter"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "kitty litter",
+    "item_ids": [
+      "bio-litter",
+      "cat-litter"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "plain paper gift wrap",
+    "item_ids": [
+      "gift-wrap"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "uncoated holiday wrapping paper",
+    "item_ids": [
+      "gift-wrap"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "bubble wrap",
+    "item_ids": [
+      "bubble-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "packaging bubble wrap",
+    "item_ids": [
+      "bubble-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Luftpolsterfolie",
+    "item_ids": [
+      "bubble-wrap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "cardboard boxes",
+    "item_ids": [
+      "cardboard"
+    ],
+    "expected_destinations": [
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "large cardboard box",
+    "item_ids": [
+      "cardboard"
+    ],
+    "expected_destinations": [
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "Versand Karton",
+    "item_ids": [
+      "cardboard"
+    ],
+    "expected_destinations": [
+      "paper",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "plastic hangers",
+    "item_ids": [
+      "coat-hanger"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "coat hangers",
+    "item_ids": [
+      "coat-hanger"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "batteries",
+    "item_ids": [
+      "battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "AA batteries",
+    "item_ids": [
+      "battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "alkaline batteries",
+    "item_ids": [
+      "battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "LED bulbs",
+    "item_ids": [
+      "led"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "LED Glühbirne",
+    "item_ids": [
+      "led"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "light bulbs",
+    "item_ids": [
+      "cfl",
+      "incandescent-bulb",
+      "led"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "cables",
+    "item_ids": [
+      "passive-cable"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "charging cables",
+    "item_ids": [
+      "passive-cable"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "USB cables",
+    "item_ids": [
+      "passive-cable"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "old phone charger",
+    "item_ids": [
+      "usb-wall-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "phone charger block",
+    "item_ids": [
+      "usb-wall-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "where does an old phone charger go?",
+    "item_ids": [
+      "usb-wall-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "water based paint cans",
+    "item_ids": [
+      "paint-bucket"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "water based paint bucket",
+    "item_ids": [
+      "paint-bucket"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "paint brush",
+    "item_ids": [
+      "wet-paint-brush",
+      "dried-paint-brush"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "clarification",
+    "group": "authored"
+  },
+  {
+    "query": "fallen leaves",
+    "item_ids": [
+      "leaves"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "Falllaub",
+    "item_ids": [
+      "leaves"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "grass clippings",
+    "item_ids": [
+      "grass"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "grass cuttings",
+    "item_ids": [
+      "grass"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "small branches",
+    "item_ids": [
+      "branches"
+    ],
+    "expected_destinations": [
+      "green"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "tree branches",
+    "item_ids": [
+      "branches"
+    ],
+    "expected_destinations": [
+      "green"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "small reusable plastic plant pots",
+    "item_ids": [
+      "plastic-flowerpot"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "ceramic flower vase",
+    "item_ids": [
+      "flower-vase-ceramic"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "laptop power cord with charger brick",
+    "item_ids": [
+      "laptop-charger"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "authored"
+  },
+  {
+    "query": "slime",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "stickers",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "shipping envelope",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "packing peanuts",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "gift bag",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "dryer lint",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "broken pencil",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "used facial tissues",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "pet hair from a vacuum bag",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "unknown broken flowerpot",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "glue containers",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "opaque makeup container",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "reusable freezer bags",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "reusable sandwich bags",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "plastic wrap",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "wrapping paper",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "disposable cups",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "razor blades",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "construction paper with glitter",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "unknown broken decorations",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "unknown tape",
+    "item_ids": [
+      "none"
+    ],
+    "expected_destinations": [],
+    "expected_outcome": "unresolved",
+    "group": "authored"
+  },
+  {
+    "query": "Fleece-Jacke",
+    "item_ids": [
+      "usable-fleece-jacket"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "solar panel",
+    "item_ids": [
+      "solar-panel"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "crêpe paper",
+    "item_ids": [
+      "crepe-paper"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektrisches Nachtlicht",
+    "item_ids": [
+      "electric-nightlight"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "old skirt",
+    "item_ids": [
+      "wearable-skirt"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "slacks",
+    "item_ids": [
+      "wearable-trousers"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Internetrouter",
+    "item_ids": [
+      "router"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "paper document mailer",
+    "item_ids": [
+      "paper-mail-folder"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic baby stacking rings",
+    "item_ids": [
+      "plastic-toy-stacking-ring"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Kleberspachtel ohne Rest",
+    "item_ids": [
+      "plastic-glue-spreader"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "paper bakery bag",
+    "item_ids": [
+      "bread-paper-bag"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "large plastic tarp",
+    "item_ids": [
+      "large-cover-tarp"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Stofftier",
+    "item_ids": [
+      "stuffed-toy"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cardboard light bulb package",
+    "item_ids": [
+      "cardboard-lightbulb-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "dustpan brush",
+    "item_ids": [
+      "hand-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Imprägnierte Holzeinfassung",
+    "item_ids": [
+      "exterior-wood-palisades"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "electric dog clippers",
+    "item_ids": [
+      "electric-dog-clippers"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "carpet shampoo machine",
+    "item_ids": [
+      "electric-carpet-cleaner"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Akku-Laubbläser",
+    "item_ids": [
+      "electric-leaf-blower"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "clean excavated earth",
+    "item_ids": [
+      "excavated-soil"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cardboard shipping corner guard",
+    "item_ids": [
+      "cardboard-shipping-corner"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Jeanshose",
+    "item_ids": [
+      "jeans"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "light-up kids shoes",
+    "item_ids": [
+      "light-up-shoes"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "foil coffee bag",
+    "item_ids": [
+      "plastic-coffee-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektro-Hochdruckreiniger",
+    "item_ids": [
+      "electric-pressure-washer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "hearing aid zinc air batteries",
+    "item_ids": [
+      "hearing-aid-zinc-air-cells"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic ice tray",
+    "item_ids": [
+      "plastic-ice-tray"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Zwetschgensteine",
+    "item_ids": [
+      "plum-pits"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "electric rotary hobby tool",
+    "item_ids": [
+      "electric-rotary-tool"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "carrot tops",
+    "item_ids": [
+      "carrot-tops"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Holzfensterläden",
+    "item_ids": [
+      "wooden-shutters"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "printer paper",
+    "item_ids": [
+      "printer-paper"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "e cigarette",
+    "item_ids": [
+      "vape"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Vollkunststoff-Spielzeuglupe",
+    "item_ids": [
+      "plastic-toy-magnifier"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "powered smart door lock",
+    "item_ids": [
+      "electronic-door-lock"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "USB arc lighter without fuel",
+    "item_ids": [
+      "powered-electric-lighter"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Handwaschbecken",
+    "item_ids": [
+      "sink"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "sawdust from plain wood",
+    "item_ids": [
+      "untreated-sawdust"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "curling wand",
+    "item_ids": [
+      "curling-iron"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "E-Gitarrenverstärker",
+    "item_ids": [
+      "electric-guitar-amp"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cleaner bottle",
+    "item_ids": [
+      "household-cleaner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "hazardous"
+    ],
+    "expected_outcome": "clarification",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "corn cob",
+    "item_ids": [
+      "corn-cob"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Weihnachtsdorf-Keramikfigur",
+    "item_ids": [
+      "ceramic-holiday-figurine"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "leftover pancakes",
+    "item_ids": [
+      "pancake-leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "aerosol",
+    "item_ids": [
+      "spray-can"
+    ],
+    "expected_destinations": [
+      "packaging",
+      "hazardous"
+    ],
+    "expected_outcome": "clarification",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Quinoareste",
+    "item_ids": [
+      "cooked-quinoa"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "ordinary used makeup brush",
+    "item_ids": [
+      "plastic-makeup-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cornflakes box",
+    "item_ids": [
+      "cereal-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Strickhandschuhe",
+    "item_ids": [
+      "usable-gloves"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty medicine glass bottle",
+    "item_ids": [
+      "medicine-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cordless drill battery pack",
+    "item_ids": [
+      "cordless-tool-battery"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Akku-Nagelpistole",
+    "item_ids": [
+      "electric-nail-gun"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic lint brush",
+    "item_ids": [
+      "plastic-clothes-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "glass ranch bottle",
+    "item_ids": [
+      "glass-salad-dressing-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Einweg-Saftflasche aus Glas",
+    "item_ids": [
+      "glass-juice-no-deposit"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "celery tops",
+    "item_ids": [
+      "celery-leaves"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "uncured solvent wood stain",
+    "item_ids": [
+      "wood-stain"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Computerdrucker",
+    "item_ids": [
+      "printer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wine glass",
+    "item_ids": [
+      "wine-glass"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "battery bicycle horn",
+    "item_ids": [
+      "electronic-bike-bell"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Plastik-Pailletten",
+    "item_ids": [
+      "plastic-sequin"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "USB webcam",
+    "item_ids": [
+      "webcam"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "oily rag",
+    "item_ids": [
+      "oily-rag"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Babybody",
+    "item_ids": [
+      "baby-clothes"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "dairy scraps",
+    "item_ids": [
+      "dairy"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "vinegar glass bottle",
+    "item_ids": [
+      "vinegar-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Holz-Flurbank",
+    "item_ids": [
+      "wooden-entry-bench"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "menstrual pad",
+    "item_ids": [
+      "sanitary-pad"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "mirror",
+    "item_ids": [
+      "mirror"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektro-Nähmaschine",
+    "item_ids": [
+      "sewing-machine"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "foam takeout clamshell",
+    "item_ids": [
+      "foam-takeout-container"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "building brick",
+    "item_ids": [
+      "bricks"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Messkanne",
+    "item_ids": [
+      "plastic-measuring-cup"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "manual plastic tape dispenser",
+    "item_ids": [
+      "plastic-tape-dispenser"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wood front door",
+    "item_ids": [
+      "wood-exterior-door"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Erdbeerstiele",
+    "item_ids": [
+      "strawberry-tops"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wood window frame",
+    "item_ids": [
+      "wood-window-frame"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "bell pepper seeds",
+    "item_ids": [
+      "pepper-core"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Landwirtschaftliche Silofolie",
+    "item_ids": [
+      "farm-film"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "paper flour bag",
+    "item_ids": [
+      "flour-bag"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "microwave",
+    "item_ids": [
+      "microwave"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Sommerkleid",
+    "item_ids": [
+      "wearable-dress"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "satellite receiver",
+    "item_ids": [
+      "tv-receiver"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "usable sleeveless shirt",
+    "item_ids": [
+      "wearable-tank-top"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Schreibheft",
+    "item_ids": [
+      "school-book"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kindle",
+    "item_ids": [
+      "e-reader"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cardboard foil box",
+    "item_ids": [
+      "cardboard-foil-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Gefährliche Schimmelreinigerreste",
+    "item_ids": [
+      "hazard-mould-remover"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic pet name tag",
+    "item_ids": [
+      "plastic-pet-id-tag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "powered ethernet switch",
+    "item_ids": [
+      "powered-network-switch"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Packband",
+    "item_ids": [
+      "packing-strap"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "solid gypsum",
+    "item_ids": [
+      "gypsum"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic tortilla wrapper",
+    "item_ids": [
+      "plastic-tortilla-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Rasierer-Kunststoffblister",
+    "item_ids": [
+      "plastic-razor-blister"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "leftover brake fluid",
+    "item_ids": [
+      "hazard-brake-fluid"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic shipping corner protector",
+    "item_ids": [
+      "plastic-packing-corner"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Externer USB-Akku",
+    "item_ids": [
+      "power-bank"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plug in slide projector",
+    "item_ids": [
+      "electric-film-projector"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic pocket",
+    "item_ids": [
+      "plastic-pocket"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Wintermantel",
+    "item_ids": [
+      "coat"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "all plastic reusable plant tie",
+    "item_ids": [
+      "plastic-garden-twist-tie"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "large upholstered footstool",
+    "item_ids": [
+      "non-electric-ottoman"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Wollwickelspule",
+    "item_ids": [
+      "plastic-yarn-bobbin"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic bucket",
+    "item_ids": [
+      "plastic-bucket"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "old rag",
+    "item_ids": [
+      "cleaning-rag"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Esszimmerstuhl aus Holz",
+    "item_ids": [
+      "wooden-chair"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wood parquet",
+    "item_ids": [
+      "parquet"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "USB microphone",
+    "item_ids": [
+      "electronic-microphone"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Petroleum",
+    "item_ids": [
+      "kerosene"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "tin can",
+    "item_ids": [
+      "food-tin"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "electric wall oven",
+    "item_ids": [
+      "electric-oven"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Verband",
+    "item_ids": [
+      "dressing"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "leftover descaler",
+    "item_ids": [
+      "descaler"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty plastic olive oil bottle",
+    "item_ids": [
+      "plastic-olive-oil-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Nachtanzug",
+    "item_ids": [
+      "wearable-pajamas"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "floss box",
+    "item_ids": [
+      "floss-pack"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "detergent bottle",
+    "item_ids": [
+      "detergent-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Spielzeiger",
+    "item_ids": [
+      "plastic-game-spinner"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "bathroom exhaust fan with motor",
+    "item_ids": [
+      "powered-bathroom-extractor"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty plastic birdseed sack",
+    "item_ids": [
+      "plastic-birdseed-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektrokochplatte",
+    "item_ids": [
+      "hot-plate"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plug in doorbell chime",
+    "item_ids": [
+      "electric-doorbell-chime"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "leftover omelette",
+    "item_ids": [
+      "omelet-leftovers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Schaumstoff-Obstschale",
+    "item_ids": [
+      "foam-produce-tray"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "battery camping lantern",
+    "item_ids": [
+      "electric-camping-lantern"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "body wash refill pouch",
+    "item_ids": [
+      "cosmetic-refill-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Plastikfigur",
+    "item_ids": [
+      "plastic-action-figure"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "corded hedge trimmer",
+    "item_ids": [
+      "electric-hedge-trimmer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "old pills",
+    "item_ids": [
+      "expired-tablets"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Plastikwickler",
+    "item_ids": [
+      "plastic-hair-roller"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic hanging bird feeder",
+    "item_ids": [
+      "plastic-bird-feeder"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "shower gel bottle",
+    "item_ids": [
+      "shower-gel-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Dattelsteine",
+    "item_ids": [
+      "date-pits"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "pear core scraps",
+    "item_ids": [
+      "pear-core"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "masonry rubble",
+    "item_ids": [
+      "rubble"
+    ],
+    "expected_destinations": [
+      "landfill"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Spülmaschinentab-Beutel",
+    "item_ids": [
+      "dishwasher-tablet-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "armchair",
+    "item_ids": [
+      "armchair"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "broken pottery",
+    "item_ids": [
+      "ceramic"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Saftpresse mit Motor",
+    "item_ids": [
+      "electric-juicer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "blow dryer",
+    "item_ids": [
+      "hairdryer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "electric bubble machine",
+    "item_ids": [
+      "automatic-bubble-machine"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Brottüte aus Plastik",
+    "item_ids": [
+      "bread-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "solvent",
+    "item_ids": [
+      "solvent"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "keyboard",
+    "item_ids": [
+      "keyboard"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektrische Schuhputzmaschine",
+    "item_ids": [
+      "electric-shoe-polisher"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "reusable plastic microwave lid",
+    "item_ids": [
+      "plastic-splatter-guard"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "olive jar",
+    "item_ids": [
+      "vegetable-jar"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Gefahrstoff-Nagellackentfernerreste",
+    "item_ids": [
+      "nail-varnish-remover"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "flat iron",
+    "item_ids": [
+      "hair-straightener"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "shoes",
+    "item_ids": [
+      "shoes"
+    ],
+    "expected_destinations": [
+      "textiles",
+      "residual"
+    ],
+    "expected_outcome": "clarification",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Akku-Epilierer",
+    "item_ids": [
+      "electric-epilator"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "clothes iron",
+    "item_ids": [
+      "iron"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "pesticide",
+    "item_ids": [
+      "pesticide"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Akku",
+    "item_ids": [
+      "rechargeable"
+    ],
+    "expected_destinations": [
+      "batteries"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "paper manual",
+    "item_ids": [
+      "paper-instructions"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "food dehydrator",
+    "item_ids": [
+      "electric-food-dehydrator"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Waschmittel-Dosierkappe",
+    "item_ids": [
+      "plastic-detergent-measure"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "electronic thermometer",
+    "item_ids": [
+      "digital-thermometer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "paper tissue dispenser box",
+    "item_ids": [
+      "tissue-box"
+    ],
+    "expected_destinations": [
+      "paper"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kaputte Schuhe",
+    "item_ids": [
+      "unusable-shoes"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic spaghetti wrapper",
+    "item_ids": [
+      "plastic-pasta-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic chopping board",
+    "item_ids": [
+      "plastic-cutting-board"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Kunststoff-Tierfellbürste",
+    "item_ids": [
+      "plastic-pet-brush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "vacuum cleaner",
+    "item_ids": [
+      "vacuum-cleaner"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "apple core",
+    "item_ids": [
+      "fruit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektrische Insektenlampe",
+    "item_ids": [
+      "electric-mosquito-zapper"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic toy bowling pins",
+    "item_ids": [
+      "plastic-toy-bowling"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "kids clothes",
+    "item_ids": [
+      "kids-clothes"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Düngerreste",
+    "item_ids": [
+      "fertilizer"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "powered water pump",
+    "item_ids": [
+      "electric-garden-pump"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "packing air bag",
+    "item_ids": [
+      "plastic-packing-pillow"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Tiefkühlschrank",
+    "item_ids": [
+      "freezer"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "cloth tablecloth",
+    "item_ids": [
+      "tablecloth"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "digital movie projector",
+    "item_ids": [
+      "powered-digital-projector"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Plastik-Futternapf",
+    "item_ids": [
+      "plastic-pet-bowl"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "powered recliner",
+    "item_ids": [
+      "electric-armchair"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "TV",
+    "item_ids": [
+      "tv"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Quarzuhr",
+    "item_ids": [
+      "electric-watch"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "rhubarb peel",
+    "item_ids": [
+      "rhubarb-trimmings"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "DSL modem",
+    "item_ids": [
+      "modem"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "WC-Reiniger-Flasche aus Plastik",
+    "item_ids": [
+      "plastic-toilet-cleaner-bottle"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "clean couch throw pillow cover",
+    "item_ids": [
+      "clean-cushion-cover"
+    ],
+    "expected_destinations": [
+      "textiles"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "stale crackers",
+    "item_ids": [
+      "crackers"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Dörrobstreste",
+    "item_ids": [
+      "dried-fruit"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty ketchup sachet",
+    "item_ids": [
+      "plastic-ketchup-sachet"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic dog toy",
+    "item_ids": [
+      "plastic-pet-toy"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Müsliriegelfolie",
+    "item_ids": [
+      "foil-granola-wrapper"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "bike tyre",
+    "item_ids": [
+      "bike-tire"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty plastic uncooked rice bag",
+    "item_ids": [
+      "plastic-rice-bag"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Elektro-Anspitzer",
+    "item_ids": [
+      "electric-pencil-sharpener"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic strainer",
+    "item_ids": [
+      "plastic-colander"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "empty bath salts pouch",
+    "item_ids": [
+      "plastic-bath-salt-pouch"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Plastik-Haarreifen",
+    "item_ids": [
+      "plastic-headband"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "tube light",
+    "item_ids": [
+      "fluorescent-tube"
+    ],
+    "expected_destinations": [
+      "electronics"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "waterproofing liquid",
+    "item_ids": [
+      "impregnating-agent"
+    ],
+    "expected_destinations": [
+      "hazardous"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Sixpack-Plastikringe",
+    "item_ids": [
+      "packaging-rings"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wooden bedstead",
+    "item_ids": [
+      "bed-frame"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "bookshelf",
+    "item_ids": [
+      "bookshelf"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Lotionflasche aus Glas",
+    "item_ids": [
+      "glass-lotion-bottle"
+    ],
+    "expected_destinations": [
+      "glass"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "plastic hair brush",
+    "item_ids": [
+      "plastic-hairbrush"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "wooden folding room divider",
+    "item_ids": [
+      "wooden-indoor-room-divider"
+    ],
+    "expected_destinations": [
+      "bulky"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Rote-Bete-Abschnitte",
+    "item_ids": [
+      "beet-peel"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "reusable plastic popsicle mold",
+    "item_ids": [
+      "reusable-plastic-popsicle-mold"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "squash seeds",
+    "item_ids": [
+      "squash-seeds"
+    ],
+    "expected_destinations": [
+      "organic"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "Brühe-Verbundpackung",
+    "item_ids": [
+      "stock-carton"
+    ],
+    "expected_destinations": [
+      "packaging"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  },
+  {
+    "query": "reusable plastic water bottle",
+    "item_ids": [
+      "plastic-drink-bottle"
+    ],
+    "expected_destinations": [
+      "residual"
+    ],
+    "expected_outcome": "verified",
+    "group": "sampled household vocabulary"
+  }
+]

@@ -65,7 +65,7 @@ test('canonical names are distinct and pending records cannot route disposal', (
 
 test('shared exact terms resolve to deliberate choices with explicit conditions', () => {
   const expected = [
-    [['light bulb', 'Lampe als Leuchtmittel'], ['cfl', 'incandescent-bulb', 'led']],
+    [['light bulb', 'light bulbs', 'Lampe als Leuchtmittel'], ['cfl', 'incandescent-bulb', 'led']],
     [['cat litter', 'kitty litter', 'Katzenstreu'], ['bio-litter', 'cat-litter']],
     [['recliner', 'Sessel', 'Fernsehsessel'], ['armchair', 'electric-armchair']],
     [['bottle', 'Flasche'], ['glass-bottle', 'plastic-drink-packaging']],
@@ -73,7 +73,7 @@ test('shared exact terms resolve to deliberate choices with explicit conditions'
     [['cooking oil', 'Speiseöl'], ['cooking-oil', 'solid-cooking-fat']],
     [['bread bag', 'Brottüte'], ['bread-paper-bag', 'bread-wrapper']],
     [['cream jar'], ['glass-cream-pot', 'plastic-cream-pot']],
-    [['shampoo bottle', 'Shampooflasche'], ['glass-shampoo-bottle', 'plastic-shampoo']],
+    [['shampoo bottle', 'shampoo bottles', 'empty shampoo bottle', 'Shampooflasche'], ['glass-shampoo-bottle', 'plastic-shampoo']],
     [['paint brush', 'Pinsel'], ['dried-paint-brush', 'wet-paint-brush']]
   ];
   const exactTerms = new Map();

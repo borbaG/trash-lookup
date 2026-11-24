@@ -1,5 +1,5 @@
 // Increment VERSION whenever a precached file changes.
-const VERSION = 'v4';
+const VERSION = 'v5';
 const scope = self.registration.scope;
 const cachePrefix = 'trash-lookup:' + scope + ':';
 const cacheName = cachePrefix + VERSION;

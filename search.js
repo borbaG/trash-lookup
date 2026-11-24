@@ -39,15 +39,38 @@ export function scoreMatch(name, query) {
   return 0;
 }
 
+function itemQuery(input) {
+  const phrase = input.trim()
+    .replace(/^where (?:does|do|can|should)\s+(?:i |we )?(?:put |throw away |dispose of |recycle )?(.+?)(?: go)?[?!.]*$/i, '$1')
+    .replace(/^wohin\s+(?:mit|gehört|gehoert)\s+/i, '');
+  return normalize(phrase).replace(/^(?:a|an|the|ein|eine|der|die|das) /, '');
+}
+
+function singular(query) {
+  return query.replace(/\b([a-z]{3,})(?:ies)\b$/, '$1y')
+    .replace(/\b([a-z]{3,}[^sui])s\b$/, '$1');
+}
+
 export function search(index, input, pendingTerms) {
-  const query = normalize(input);
+  const original = normalize(input);
+  const query = itemQuery(input);
   if (!query) return [];
-  // An exact pending name must not be redirected to a similar verified item.
-  const minimumScore = pendingTerms?.has(query) ? 100 : 1;
-  return index.flatMap(({ item, names }) => {
-    const score = minimumScore === 100
-      ? (names.includes(query) ? 100 : 0)
-      : Math.max(...names.map(name => scoreMatch(name, query)));
-    return score >= minimumScore ? [{ item, score }] : [];
-  }).sort((a, b) => b.score - a.score || a.item.name_en.localeCompare(b.item.name_en));
+  if (query !== original && /^(?:it|this|that|das|es)$/.test(query)) return [];
+  const ranked = (a, b) => b.score - a.score || a.item.name_en.localeCompare(b.item.name_en);
+  const exact = term => index.filter(({names}) => names.includes(term)).map(({item}) => ({item, score: 100}));
+  if (pendingTerms?.has(original)) return exact(original).sort(ranked);
+  const direct = index.some(({names}) => names.includes(original));
+  const lookup = direct ? original : query;
+  const cleaned = query === original ? [] : exact(query);
+  if (!direct && pendingTerms?.has(query)) return cleaned.sort(ranked);
+  const base = singular(lookup);
+  if (!direct && !cleaned.length && base !== lookup) {
+    if (pendingTerms?.has(base)) return [];
+    const singularMatches = exact(base);
+    if (singularMatches.length) return singularMatches.sort(ranked);
+  }
+  return index.flatMap(({item, names}) => {
+    const score = Math.max(...names.map(name => scoreMatch(name, lookup)));
+    return score ? [{item, score}] : [];
+  }).sort(ranked);
 }

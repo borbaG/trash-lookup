@@ -27,6 +27,8 @@ See [the Phase 2 database expansion report](DATABASE-EXPANSION.md) for coverage 
 
 See the [Phase 4 completion report](PHASE-4-REPORT.md) for the 1,000-item release and frozen family benchmark. The [Phase 3 database report](PHASE-3-DATABASE.md) and [search report](PHASE-3-SEARCH.md) document the previous release. New records can include `verification_basis`, `supporting_rule`, and any `supporting_source_urls`. Pending records can include `review_reason` and `review_source_url`.
 
+See the [Phase 5 family vocabulary and search audit](PHASE-5-REPORT.md) for natural-language lookup, wrapper clarification, and the current frozen benchmark.
+
 - [Landkreis Kusel waste services](https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/)
 - [County Abfall-ABC](https://www.wsb-landkreis-kusel.de/buergerservice/leistungen/RLP:entry:2231062:ANLR-VLR/abfall-abc/)
 - [County Entsorgung guidance](https://www.landkreis-kusel.de/buergerservice-und-verwaltung/themen/abfallwirtschaft/entsorgung/)
