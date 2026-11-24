@@ -217,7 +217,18 @@ try {
 render();
 
 if (ready && 'serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./service-worker.js', { updateViaCache: 'none' }).catch(() => {
+  const worker = navigator.serviceWorker;
+  let controller = worker.controller;
+  worker.addEventListener('controllerchange', () => {
+    const shouldReload = controller && worker.controller && controller !== worker.controller;
+    controller = worker.controller;
+    if (shouldReload) location.reload();
+  });
+  worker.register('./service-worker.js', { updateViaCache: 'none' }).then(registration => {
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden) registration.update().catch(() => {});
+    });
+  }).catch(() => {
     // The online lookup remains available when service workers are disabled.
   });
 }

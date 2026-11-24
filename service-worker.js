@@ -1,5 +1,5 @@
 // Increment VERSION whenever a precached file changes.
-const VERSION = 'v5';
+const VERSION = 'v6';
 const scope = self.registration.scope;
 const cachePrefix = 'trash-lookup:' + scope + ':';
 const cacheName = cachePrefix + VERSION;
@@ -14,14 +14,22 @@ self.addEventListener('install', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(cacheName);
     await cache.addAll([...assets].map(url => new Request(url, { cache: 'reload' })));
+    await self.skipWaiting();
   })());
 });
 
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
+    const legacyUpdate = keys.some(key => ['v1', 'v2', 'v3', 'v4', 'v5'].some(version => key === cachePrefix + version));
     await Promise.all(keys.filter(key => key.startsWith(cachePrefix) && key !== cacheName).map(key => caches.delete(key)));
     await self.clients.claim();
+    if (legacyUpdate) {
+      // Older pages lack a controllerchange listener. Refresh them once on migration.
+      for (const client of await self.clients.matchAll({ type: 'window' })) {
+        if (new URL(client.url).href.startsWith(scope)) client.navigate(client.url).catch(() => {});
+      }
+    }
   })());
 });
 

@@ -54,6 +54,8 @@ test('service worker caches the complete database and serves it with the network
   const handlers = new Map();
   const appCache = new Map();
   const deleted = [];
+  const refreshed = [];
+  let skipWaiting = false;
   let offline = false;
   const fetch = async request => {
     if (offline) throw Error('offline');
@@ -69,16 +71,26 @@ test('service worker caches the complete database and serves it with the network
   };
   const script = await readFile(new URL('../service-worker.js',import.meta.url),'utf8');
   runInNewContext(script,{
-    URL,Request,fetch,self:{registration:{scope},addEventListener:(event,handler)=>handlers.set(event,handler),clients:{claim:async()=>{}}},
+    URL,Request,fetch,self:{
+      registration:{scope},
+      addEventListener:(event,handler)=>handlers.set(event,handler),
+      skipWaiting:async()=>{ skipWaiting = true; },
+      clients:{
+        claim:async()=>{},
+        matchAll:async()=>[{url:scope,navigate:async url=>refreshed.push(url)}]
+      }
+    },
     caches:{open:async()=>cache,keys:async()=>['trash-lookup:'+scope+':v2','other-app'],delete:async key=>deleted.push(key)}
   });
   let job;
   const waitUntil = promise => { job = promise; };
   handlers.get('install')({waitUntil});
   await job;
+  assert.equal(skipWaiting, true);
   handlers.get('activate')({waitUntil});
   await job;
   assert.deepEqual(deleted,['trash-lookup:'+scope+':v2']);
+  assert.deepEqual(refreshed,[scope]);
   offline = true;
   for (const [file, expected] of [
     ['data/waste-items.json',data.items.length],
